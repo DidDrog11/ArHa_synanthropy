@@ -1,7 +1,7 @@
 # ==============================================================================
 # Script: 00_setup.R
 # Project: ArHa Synanthropy - Continuous Spatial Framework
-# Purpose: Initialiae repository structure, load dependencies, and configure 
+# Purpose: Initialise repository structure, load dependencies, and configure 
 #          spatial processing environments.
 # ==============================================================================
 
