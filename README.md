@@ -1,92 +1,75 @@
-# ArHa Synanthropy: A Continuous Spatial Framework for Predicting Rodent Zoonotic Hazard
+# ArHa Synanthropy: A Continuous Measure of Rodent Synanthropy
 
 ## Project Overview
-This project builds upon the ArHa macroecology dataset to explore synanthropy in small mammals. Instead of treating synanthropy as a rigid categorical trait (e.g., Totally, Occasionally, or Not Synanthropic), we model it as a continuous, spatial reaction process. 
+This project builds on the ArHa macroecology dataset and on the synanthropy classification of Ecke et al. (2022), which classified rodent species as synanthropic or not and showed that synanthropy helps explain the risk of rodent-borne zoonoses. We extend that work in two directions: we estimate synanthropy as a continuous response to human modification of the landscape, and we predict it for species that have not yet been classified. The Ecke et al. categories are the reference against which the continuous index is checked.
 
-By integrating global surveillance records with Target-Group Background (TGB) data from GBIF, we use multi-source Bayesian occupancy models to quantify species-specific tolerance to anthropogenic modification at a 1km resolution. We then leverage imputed life-history traits and phylogeny to predict a continuous "Synanthropy Index" for over 2,000 unclassified rodent species, assisting in the mapping of global zoonotic contact hazard.
+By integrating global surveillance records with Target-Group Background (TGB) data from GBIF, we use multi-source Bayesian occupancy models to quantify species-specific tolerance to anthropogenic modification. We then use imputed life-history traits and phylogeny to predict a continuous synanthropy index for over 2,000 unclassified rodent species. The index is framed ecologically first: what it shows about how rodent communities change with human modification, and about pest activity. Zoonotic hazard is discussed as an implication, not mapped.
+
+## Analysis stance
+The analysis is not formally preregistered. To avoid HARKing, analytical choices are recorded in a dated decision log before the results they affect are seen, and the manuscript will separate analyses fixed in advance from those decided after results were seen. The occupancy models and early versions of the trait model were fitted before the log was started; the log records which of their results had already been seen.
 
 ## Data Handoff (Inputs)
 The core analytical datasets are inherited from the `arha-macroecology` pipeline. Placed in `data/raw/`:
 - `host_traits_final.rds`: Includes COMBINE life-history traits, PC scores, and the original categorical `synanthropy_status` for downstream validation.
 - `Project_ArHa_database_[DATE].rds`: The harmonised global surveillance database (GPS coordinates, effort, assay results).
 - `mammal_tree_matched.tre`: The pruned Upham consensus phylogeny.
+- `ecke_synanthropy_clean.rds`: Ecke synanthropy categories, for the planned validation step.
+
+Also required locally but not in the repository: the 1 km Global Human Modification raster (`data/spatial_covariates/gHM_1km_global.tif`), and IUCN range polygons (`data/raw/iucn/`, under IUCN terms of use; not currently used by the pipeline).
 
 ---
 
-## Analytical Pipeline & To-Do List
+## Repository structure
 
 ```
-arha_synanthropy/
+ArHa_synanthropy/
 │
 ├── data/
-│   ├── raw/                 # The cleaned dataset from Paper 1, IUCN polygons
-│   ├── spatial_covariates/  # Downloaded global rasters (GHSL, VIIRS, gHM) - *Add to .gitignore!*
-│   └── processed/           # Extracted raster values, target-group backgrounds, model-ready data
+│   ├── raw/                 # Hand-off from arha-macroecology, IUCN polygons (read-only)
+│   ├── spatial_covariates/  # Global rasters (gHM) - gitignored
+│   └── processed/           # GBIF background, model-ready points, synanthropy indices
 │
 ├── scripts/
-│   ├── 00_setup.R           # Library loading, setting terra tmp directories, API keys (GBIF)
-│   ├── 01_gbif_pull.R       # Querying GBIF for target-group background (TGB) absences
-│   ├── 02_extract_covars.R  # Extracting environmental values at ArHa and GBIF points
-│   ├── 03_occupancy_fit.R   # Running spoccupancy multi-source models (The Heavy Lifter)
-│   ├── 04_extract_syn.R     # Extracting continuous synanthropy parameters from posteriors
-│   ├── 05_predictive_ML.R   # Using brms/RF to predict synanthropy for the "shadow commensals"
-│   └── 06_hazard_map.R      # Intersecting Competence (Paper 1) * Contact (Paper 2)
+│   ├── 00_setup.R           # Packages, directories, terra temp directory, parallel plan
+│   ├── 01_gbif_pull.R       # GBIF download and cleaning for the target-group background
+│   ├── 02_spatial_prep.R    # gHM extraction and per-species background pools
+│   ├── 03_occupancy_fit.R   # Integrated ArHa + GBIF occupancy models, one per species
+│   ├── 04_extract_syn.R     # Synanthropy indices from the occupancy posteriors
+│   └── 05_predictive_ML.R   # Phylogenetic Beta model (brms) predicting unmodelled species
 │
 ├── outputs/
-│   ├── models/              # Saved .rds files of fitted spoccupancy and brms models
-│   ├── figures/             # Density curves, hazard maps, tanglegrams
-│   └── tables/              # Model summaries
+│   ├── models/              # Fitted occupancy and trait models
+│   ├── figures/
+│   └── tables/
 │
-├── manuscript/
-│   ├── references.bib
-│   └── synanthropy_ms.qmd   # Quarto or RMarkdown document
-│
-├── .gitignore               # Ignore large rasters, model .rds files, and sensitive keys
-└── README.md                # Overview of the pipeline and link to Paper 1's repo
+└── manuscript/              # Not yet started
 ```
 
-### Phase 1: Setup and Data Acquisition
-- [ ] **`00_setup.R`**
-  - [ ] Initialize repository structure (create `data/spatial_covariates`, `outputs/models`, etc.).
-  - [ ] Load standard libraries (`terra`, `sf`, `tidyverse`, `spoccupancy`, `brms`).
-  - [ ] Configure `terra` temp directories to handle heavy spatial processing.
-- [ ] **`01_gbif_pull.R`**
-  - [ ] Authenticate `rgbif` using API credentials.
-  - [ ] Pull coordinate data for all target `Rodentia` and `Eulipotyphla` species.
-  - [ ] Clean and filter GBIF data (remove fossil records, spatial outliers, high-uncertainty coordinates).
-  - [ ] Generate the Target-Group Background (TGB) dataset to act as structured pseudo-absences.
+Scripts are run in numbered order from the project root; each sources `00_setup.R`. `01_gbif_pull.R` needs the `GBIF_USER`, `GBIF_PWD` and `GBIF_EMAIL` environment variables.
 
-### Phase 2: Spatial Processing
-- [ ] **`02_extract_covars.R`**
-  - [ ] Download and store global 1km anthropogenic rasters (e.g., Global Human Modification Index, GHSL) in `data/spatial_covariates/`.
-  - [ ] Load and clean IUCN range polygons (`MAMMALS_TERRESTRIAL_ONLY.shp`), filtering to target orders.
-  - [ ] Build a parallel `terra` workflow (via `furrr`) to loop through species, using their IUCN polygon to crop/mask the global 1km rasters.
-  - [ ] Intersect ArHa surveillance points (presences/absences) and GBIF points with the cropped 1km rasters.
-  - [ ] Extract point-level environmental covariates (Human Modification, baseline natural habitat like Tree Cover/NDVI).
-  - [ ] Extract sampling effort covariates (e.g., distance to roads, night-time lights) to control for the "streetlight effect" in the observation sub-model.
+## Pipeline as implemented
 
-### Phase 3: Occupancy Modelling
-- [ ] **`03_occupancy_fit.R`**
-  - [ ] Structure the data for multi-source joint likelihood modelling.
-  - [ ] Fit `spoccupancy` models for data-rich species:
-    - *Biological Process ($\psi$)*: Function of continuous human modification.
-    - *Observation Process ($p$)*: Function of ArHa tested counts (offset), night-time lights, and accessibility.
-  - [ ] Incorporate spatial random effects (NNGPs) to absorb unmeasured spatial autocorrelation.
-- [ ] **`04_extract_syn.R`**
-  - [ ] Extract posterior distributions of the $\beta$ coefficients for the human modification covariate.
-  - [ ] Generate probability density functions across the modification gradient for each species.
-  - [ ] Calculate the continuous **Synanthropy Index** (e.g., the optimum modification peak and tolerance variance) and save as a new species-level trait dataset.
-  - [ ] *Validation step:* Plot these continuous curves grouped by the original Ecke `synanthropy_status` to confirm biological alignment.
+1. **GBIF background (01).** Records for the species in `host_traits_final.rds`, coordinate uncertainty ≤ 10 km, cleaned with CoordinateCleaner, at most 5,000 random records per species.
+2. **Spatial preparation (02).** ArHa and GBIF rodent records from 2000 onwards are pooled and gHM is extracted at each unique location. Each species' background pool is the set of pooled points inside the convex hull of its own records plus a 50 km buffer.
+3. **Occupancy models (03).** One integrated, non-spatial model per species (`spOccupancy::intPGOcc`): occupancy `~ gHM + gHM²`; detection `~ effort` for ArHa (log trapping effort per site-session) and intercept-only for GBIF. Species: ArHa species with ≥ 15 site-session events, plus one GBIF-recorded species from each of 150 phylogenetic clusters.
+4. **Synanthropy index (04).** Species with max Rhat < 1.15 are kept. For each posterior draw, predicted occupancy is evaluated across the species' own 2.5–97.5% gHM range. The primary index is the occupancy-weighted mean gHM, with the weighted SD as tolerance. Sensitivity summaries: gHM at maximum occupancy, the high-minus-low occupancy contrast, and the quadratic vertex.
+5. **Trait model (05).** Beta regression in brms with a phylogenetic random effect, using life-history PCs, range size, habitat breadth and diet breadth (missing values imputed with missRanger), to predict the index for unmodelled rodent species.
 
-### Phase 4: Prediction and Hazard Mapping
-- [ ] **`05_predictive_ML.R`**
-  - [ ] Merge the new continuous Synanthropy Index with `host_traits_final.rds`.
-  - [ ] Fit a phylogenetic mixed model (`brms`) or phylogenetic Random Forest using `pace_of_life_pc1`, body mass, diet breadth, and phylogeny to predict the Synanthropy Index.
-  - [ ] Project predictions onto the >2,000 unclassified species ("shadow commensals"), capturing posterior uncertainty.
-- [ ] **`06_hazard_map.R`**
-  - [ ] Decouple competence from contact: Multiply the *Competence Hazard* (from Paper 1) by the *Contact Hazard* (predicted synanthropy from Phase 4).
-  - [ ] Generate global 20km bivariate hazard maps using `terra`.
-  - [ ] Identify high-risk ecotones (e.g., peri-domestic interfaces and agricultural frontiers) where high competence meets high synanthropic plasticity.
+## Status
+
+- [x] 01 GBIF background generated.
+- [x] 02 Model-ready spatial points generated.
+- [x] 03 Occupancy models fitted (150 species attempted; 132 fitted, 18 failed or had insufficient data).
+- [ ] 04 Re-run with the new index definition (code updated, not yet run).
+- [ ] 05 Re-run on the new index (code updated, not yet run). An earlier version used BART, and a PGLMM on the vertex index was fitted interactively.
+- [ ] Validation against Ecke synanthropy categories.
+- [ ] Occupancy model: add NNGP spatial random effects.
+- [ ] Occupancy model: add night-time lights and accessibility to the detection sub-model.
+- [ ] Background pools: use IUCN range polygons.
+- [ ] Covariates: add GHSL and natural-habitat covariates (tree cover/NDVI).
+- [ ] Extend to Eulipotyphla.
+- [ ] Sensitivity refit of 03 with gHM entered as a binned (20 equal-width bins) random intercept.
+- [ ] Manuscript.
 
 ## Dependencies
-- **R Packages**: `terra`, `tidyterra`, `sf`, `spoccupancy`, `brms`, `rgbif`, `furrr`.
+- **R packages** (loaded with `pacman` in `00_setup.R`): `tidyverse`, `here`, `terra`, `tidyterra`, `ape`, `spOccupancy`, `brms` (with `cmdstanr`), `rgbif`, `CoordinateCleaner`, `missRanger`, `tidybayes`, `future`, `furrr`.

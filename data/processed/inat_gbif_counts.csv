@@ -1,0 +1,2215 @@
+tip_label,gbif_id,synanthropy_status,occupancy_fit,n_gbif,n_inat,inat_share
+Muscardinus_avellanarius,2439658,Not Synanthropic,TRUE,83363,943,0.011311972937634203
+Selevinia_betpakdalaensis,2439656,NA,NA,0,0,NA
+Chaetocauda_sichuanensis,4262914,NA,NA,1,1,1
+Dryomys_laniger,2439686,NA,NA,1,1,1
+Dryomys_niethammeri,4262920,NA,NA,0,0,NA
+Dryomys_nitedula,2439688,Not Synanthropic,NA,1184,169,0.14273648648648649
+Eliomys_munbyanus,4262915,NA,NA,5,1,0.2
+Eliomys_quercinus,2439683,Occasionally Synanthropic,TRUE,18860,1078,0.05715800636267232
+Eliomys_melanurus,2439684,Not Synanthropic,NA,47,4,0.0851063829787234
+Graphiurus_christyi,5219904,NA,NA,0,0,NA
+Graphiurus_rupicola,5219913,NA,NA,1,0,0
+Graphiurus_johnstoni,5706488,NA,NA,0,0,NA
+Graphiurus_monardi,5219906,NA,NA,0,0,NA
+Graphiurus_microtis,5219915,NA,NA,26,7,0.2692307692307692
+Graphiurus_ocularis,5219907,NA,NA,31,26,0.8387096774193549
+Graphiurus_lorraineus,5219910,NA,NA,48,4,0.08333333333333333
+Graphiurus_nagtglasii,5706489,NA,NA,12,0,0
+Graphiurus_murinus,5219911,Occasionally Synanthropic,TRUE,464,97,0.20905172413793102
+Graphiurus_walterverheyeni,7364979,NA,NA,0,0,NA
+Graphiurus_surdus,5219903,NA,NA,0,0,NA
+Graphiurus_angolensis,5706487,NA,NA,0,0,NA
+Graphiurus_crassicaudatus,5219909,NA,NA,0,0,NA
+Graphiurus_kelleni,5219905,NA,NA,19,6,0.3157894736842105
+Graphiurus_platyops,5219908,NA,NA,0,0,NA
+Glis_glis,5706486,Occasionally Synanthropic,TRUE,22218,2255,0.10149428391394365
+Myomimus_personatus,2439664,NA,NA,0,0,NA
+Myomimus_roachi,2439663,NA,NA,521,0,0
+Myomimus_setzeri,2439662,NA,NA,0,0,NA
+Glirulus_japonicus,2439681,NA,NA,8,7,0.875
+Aplodontia_rufa,2439690,NA,TRUE,363,319,0.8787878787878788
+Ratufa_macroura,2437563,NA,NA,1161,745,0.6416881998277347
+Ratufa_bicolor,2437566,NA,NA,2016,1579,0.783234126984127
+Ratufa_affinis,2437564,NA,NA,646,555,0.8591331269349846
+Ratufa_indica,2437565,NA,TRUE,4359,1624,0.37256251433815096
+Sciurillus_pusillus,9195979,NA,TRUE,130,37,0.2846153846153846
+Funambulus_layardi,2437244,NA,NA,228,106,0.4649122807017544
+Funambulus_palmarum,2437246,NA,TRUE,4788,3201,0.668546365914787
+Funambulus_pennantii,2437243,NA,NA,5247,4311,0.8216123499142367
+Funambulus_sublineatus,2437247,NA,NA,450,184,0.4088888888888889
+Funambulus_tristriatus,2437245,NA,NA,1143,622,0.5441819772528433
+Exilisciurus_whiteheadi,2437387,NA,NA,232,139,0.5991379310344828
+Exilisciurus_concinnus,2437388,NA,NA,17,8,0.47058823529411764
+Exilisciurus_exilis,2437386,NA,TRUE,578,423,0.7318339100346021
+Prosciurillus_murinus,2437463,NA,NA,73,33,0.4520547945205479
+Prosciurillus_leucomus,2437464,NA,NA,98,78,0.7959183673469388
+Prosciurillus_abstrusus,2437462,NA,NA,0,0,NA
+Prosciurillus_rosenbergii,4264068,NA,NA,24,19,0.7916666666666666
+Prosciurillus_weberi,2437461,NA,NA,2,1,0.5
+Rubrisciurus_rubriventer,2437286,NA,NA,7,7,1
+Hyosciurus_ileile,2437238,NA,NA,2,0,0
+Hyosciurus_heinrichi,2437239,NA,NA,1,1,1
+Nannosciurus_melanotis,2437268,NA,NA,77,68,0.8831168831168831
+Tamiops_rodolphii,7261518,NA,NA,357,301,0.8431372549019608
+Tamiops_swinhoei,2437262,Not Synanthropic,NA,518,359,0.693050193050193
+Tamiops_maritimus,2437264,NA,NA,1283,786,0.612626656274357
+Dremomys_lokriah,2437275,NA,NA,219,143,0.6529680365296804
+Dremomys_pyrrhomerus,2437274,NA,NA,47,46,0.9787234042553191
+Dremomys_rufigenis,2437278,NA,NA,268,175,0.6529850746268657
+Dremomys_everetti,2437277,NA,NA,133,0,0
+Dremomys_gularis,4263959,NA,NA,3,3,1
+Dremomys_pernyi,2437276,NA,NA,553,231,0.4177215189873418
+Callosciurus_adamsi,2437403,Not Synanthropic,NA,46,24,0.5217391304347826
+Callosciurus_nigrovittatus,2437400,NA,NA,173,144,0.8323699421965318
+Callosciurus_prevostii,2437397,Not Synanthropic,NA,1215,975,0.8024691358024691
+Callosciurus_orestes,2437401,NA,NA,289,211,0.7301038062283737
+Callosciurus_notatus,2437396,Not Synanthropic,NA,6921,6302,0.9105620575061407
+Callosciurus_caniceps,2437404,Not Synanthropic,NA,1140,759,0.6657894736842105
+Callosciurus_baluensis,2437398,NA,NA,44,27,0.6136363636363636
+Callosciurus_quinquestriatus,2437407,NA,NA,20,19,0.95
+Callosciurus_phayrei,2437406,NA,NA,17,9,0.5294117647058824
+Callosciurus_inornatus,2437405,NA,NA,52,17,0.3269230769230769
+Callosciurus_pygerythrus,2437402,Not Synanthropic,NA,612,469,0.7663398692810458
+Callosciurus_melanogaster,2437395,NA,NA,16,5,0.3125
+Callosciurus_finlaysonii,2437399,Not Synanthropic,NA,3590,3017,0.8403899721448468
+Callosciurus_erythraeus,2437394,Not Synanthropic,TRUE,12393,8277,0.6678770273541516
+Sundasciurus_fraterculus,2437486,NA,NA,12,1,0.08333333333333333
+Sundasciurus_lowii,2437483,Not Synanthropic,NA,195,161,0.8256410256410256
+Sundasciurus_steerii,2437477,NA,NA,8,0,0
+Sundasciurus_hoogstraali,2437478,NA,NA,24,5,0.20833333333333334
+Sundasciurus_juvencus,2437474,NA,NA,114,37,0.32456140350877194
+Sundasciurus_moellendorffi,2437479,NA,NA,3,0,0
+Sundasciurus_rabori,2437476,NA,NA,3,2,0.6666666666666666
+Sundasciurus_hippurus,2437473,Not Synanthropic,NA,46,34,0.7391304347826086
+Sundasciurus_samarensis,2437485,NA,NA,1,1,1
+Sundasciurus_mindanensis,2437475,NA,NA,8,8,1
+Sundasciurus_philippinensis,2437484,NA,NA,4,1,0.25
+Sundasciurus_davensis,2437481,NA,NA,0,0,NA
+Sundasciurus_brookei,2437472,NA,NA,4,3,0.75
+Sundasciurus_jentinki,2437482,NA,NA,228,153,0.6710526315789473
+Sundasciurus_tenuis,2437480,NA,NA,758,686,0.9050131926121372
+Glyphotes_simus,2437466,NA,NA,4,4,1
+Menetes_berdmorei,2437409,Not Synanthropic,NA,600,476,0.7933333333333333
+Rhinosciurus_laticaudatus,5219658,NA,NA,14,13,0.9285714285714286
+Lariscus_hosei,2437526,Not Synanthropic,NA,23,21,0.9130434782608695
+Lariscus_insignis,2437524,NA,NA,157,119,0.7579617834394905
+Lariscus_niobe,2437523,NA,NA,64,20,0.3125
+Lariscus_obscurus,2437525,NA,NA,4,1,0.25
+Spermophilopsis_leptodactylus,5219655,NA,NA,47,43,0.9148936170212766
+Xerus_erythropus,8950740,NA,NA,1532,475,0.31005221932114885
+Xerus_rutilus,2437455,NA,NA,695,440,0.6330935251798561
+Xerus_princeps,2437457,NA,NA,38,24,0.631578947368421
+Xerus_inauris,2437454,NA,NA,2776,1800,0.6484149855907781
+Atlantoxerus_getulus,2437470,NA,FALSE,4149,1159,0.27934442034225115
+Sciurotamias_forresti,2437230,NA,NA,4,4,1
+Sciurotamias_davidianus,2437229,Not Synanthropic,TRUE,308,280,0.9090909090909091
+Myosciurus_pumilio,2437288,NA,NA,19,19,1
+Epixerus_ebii,2437272,NA,NA,29,21,0.7241379310344828
+Funisciurus_duchaillui,5786643,NA,NA,0,0,NA
+Funisciurus_anerythrus,2437413,NA,NA,75,35,0.4666666666666667
+Protoxerus_stangeri,2437390,NA,TRUE,248,115,0.4637096774193548
+Protoxerus_aubinnii,2437391,NA,NA,63,8,0.12698412698412698
+Funisciurus_substriatus,2437417,NA,NA,55,7,0.12727272727272726
+Funisciurus_pyrropus,2437411,NA,TRUE,211,66,0.3127962085308057
+Paraxerus_alexandri,2437351,NA,NA,41,24,0.5853658536585366
+Funisciurus_congicus,2437412,NA,NA,159,109,0.6855345911949685
+Funisciurus_leucogenys,2437414,NA,NA,61,8,0.13114754098360656
+Paraxerus_cepapi,2437354,Not Synanthropic,TRUE,3741,2582,0.6901897888265169
+Paraxerus_ochraceus,2437345,NA,NA,793,371,0.467843631778058
+Funisciurus_bayonii,2437419,NA,NA,0,0,NA
+Paraxerus_cooperi,2437350,NA,NA,12,3,0.25
+Paraxerus_vincenti,2437348,NA,NA,2,0,0
+Paraxerus_palliatus,2437349,NA,NA,599,282,0.4707846410684474
+Funisciurus_lemniscatus,2437418,NA,NA,17,11,0.6470588235294118
+Paraxerus_flavovittis,2437346,NA,NA,33,20,0.6060606060606061
+Paraxerus_vexillarius,2437352,NA,NA,25,20,0.8
+Funisciurus_carruthersi,2437416,NA,NA,65,14,0.2153846153846154
+Paraxerus_lucifer,2437353,NA,NA,24,11,0.4583333333333333
+Funisciurus_isabella,2437415,NA,NA,11,8,0.7272727272727273
+Paraxerus_boehmi,2437347,NA,NA,193,108,0.5595854922279793
+Paraxerus_poensis,2437344,NA,NA,38,11,0.2894736842105263
+Heliosciurus_mutabilis,2437544,NA,NA,178,94,0.5280898876404494
+Heliosciurus_gambianus,2437541,NA,NA,1102,307,0.27858439201451907
+Heliosciurus_ruwenzorii,2437543,NA,NA,37,26,0.7027027027027027
+Heliosciurus_rufobrachium,2437540,NA,NA,390,243,0.6230769230769231
+Heliosciurus_punctatus,2437542,NA,NA,57,18,0.3157894736842105
+Heliosciurus_undulatus,2437539,NA,NA,141,116,0.8226950354609929
+Tamias_sibiricus,2437450,Occasionally Synanthropic,NA,20013,4560,0.22785189626742616
+Tamias_striatus,2437438,Occasionally Synanthropic,TRUE,84968,81230,0.9560069673288768
+Tamias_speciosus,2437439,NA,NA,1963,808,0.4116148751910341
+Tamias_minimus,2437432,Occasionally Synanthropic,NA,8321,4971,0.597404158154068
+Tamias_quadrimaculatus,2437446,Not Synanthropic,NA,422,264,0.6255924170616114
+Tamias_ruficaudus,2437426,NA,NA,126,0,0
+Tamias_rufus,2437428,Not Synanthropic,NA,104,0,0
+Tamias_quadrivittatus,2437437,NA,NA,1092,511,0.46794871794871795
+Tamias_palmeri,2437436,NA,NA,293,249,0.8498293515358362
+Tamias_dorsalis,2437431,Not Synanthropic,NA,3397,2513,0.7397703856343832
+Tamias_cinereicollis,2437443,NA,NA,306,209,0.6830065359477124
+Tamias_sonomae,2437448,Occasionally Synanthropic,NA,824,797,0.9672330097087378
+Tamias_senex,2437447,NA,NA,517,181,0.35009671179883944
+Tamias_ochrogenys,9767716,Not Synanthropic,NA,22,0,0
+Tamias_amoenus,2437430,NA,TRUE,4984,3361,0.6743579454253612
+Spermophilus_suslicus,2437323,Not Synanthropic,NA,68,30,0.4411764705882353
+Spermophilus_brevicauda,4263797,Not Synanthropic,NA,114,50,0.43859649122807015
+Spermophilus_ralli,4263857,NA,NA,1,0,0
+Spermophilus_alashanicus,2437315,Not Synanthropic,NA,133,41,0.3082706766917293
+Spermophilus_pallidicauda,4263876,NA,NA,48,10,0.20833333333333334
+Spermophilus_fulvus,2437306,NA,NA,305,282,0.9245901639344263
+Spermophilus_major,2437320,Not Synanthropic,NA,557,521,0.9353680430879713
+Spermophilus_erythrogenys,2437318,NA,NA,123,96,0.7804878048780488
+Spermophilus_relictus,2437310,NA,NA,12,12,1
+Spermophilus_dauricus,2437294,Not Synanthropic,NA,95,32,0.3368421052631579
+Spermophilus_taurensis,9040543,NA,NA,66,16,0.24242424242424243
+Spermophilus_citellus,2437304,Not Synanthropic,NA,6799,1877,0.2760700102956317
+Spermophilus_xanthoprymnus,2437301,NA,NA,407,202,0.4963144963144963
+Spermophilus_pygmaeus,2437322,Not Synanthropic,NA,141,40,0.28368794326241137
+Urocitellus_undulatus,7522906,NA,NA,1750,1353,0.7731428571428571
+Urocitellus_parryii,8303143,NA,NA,3591,2509,0.6986911723753829
+Urocitellus_richardsonii,7905336,NA,NA,4835,4199,0.868459152016546
+Urocitellus_elegans,7404826,NA,NA,1290,1190,0.9224806201550387
+Urocitellus_columbianus,7786966,NA,NA,7952,7556,0.9502012072434608
+Urocitellus_washingtoni,8055765,NA,NA,38,24,0.631578947368421
+Urocitellus_townsendii,8028887,NA,NA,48,47,0.9791666666666666
+Urocitellus_mollis,7666001,NA,NA,109,45,0.41284403669724773
+Urocitellus_canus,7548484,NA,NA,153,69,0.45098039215686275
+Urocitellus_brunneus,7640191,NA,NA,77,64,0.8311688311688312
+Urocitellus_beldingi,8428945,NA,NA,2459,2207,0.8975193167954453
+Urocitellus_armatus,8151861,NA,NA,3342,3234,0.9676840215439856
+Ictidomys_mexicanus,7679679,NA,NA,285,215,0.7543859649122807
+Ictidomys_tridecemlineatus,7994322,NA,NA,5954,4791,0.8046691299966409
+Poliocitellus_franklinii,7946545,NA,NA,1453,1414,0.9731589814177564
+Xerospermophilus_spilosoma,8299308,NA,NA,1015,793,0.7812807881773399
+Xerospermophilus_perotensis,7410386,NA,NA,44,15,0.3409090909090909
+Xerospermophilus_tereticaudus,8032606,NA,NA,3045,2946,0.967487684729064
+Xerospermophilus_mohavensis,7781204,NA,NA,46,45,0.9782608695652174
+Cynomys_mexicanus,2437234,NA,NA,2263,453,0.2001767565178966
+Cynomys_ludovicianus,2437232,Occasionally Synanthropic,NA,13351,13040,0.9767058647292338
+Cynomys_parvidens,2437235,NA,NA,324,318,0.9814814814814815
+Cynomys_leucurus,2437233,NA,NA,956,923,0.9654811715481172
+Cynomys_gunnisoni,2437236,Not Synanthropic,NA,2218,2119,0.9553651938683498
+Marmota_monax,2437368,Occasionally Synanthropic,NA,46466,45757,0.9847415314423449
+Marmota_menzbieri,2437367,NA,NA,5,5,1
+Marmota_caudata,2437366,NA,NA,208,145,0.6971153846153846
+Marmota_flaviventris,2437369,Not Synanthropic,NA,16917,16631,0.9830939291836615
+Marmota_olympus,2437374,NA,NA,706,680,0.9631728045325779
+Marmota_vancouverensis,2437365,NA,NA,152,137,0.9013157894736842
+Marmota_caligata,2437378,NA,NA,6473,5838,0.9019002008342345
+Marmota_marmota,2437377,Not Synanthropic,NA,122094,10742,0.08798139138696415
+Marmota_broweri,2437373,NA,NA,65,22,0.3384615384615385
+Marmota_himalayana,2437371,Not Synanthropic,NA,709,544,0.767277856135402
+Marmota_sibirica,2437372,Not Synanthropic,NA,469,225,0.47974413646055436
+Marmota_camtschatica,2437376,NA,NA,85,84,0.9882352941176471
+Marmota_bobak,2437375,Not Synanthropic,TRUE,11084,1792,0.16167448574521834
+Marmota_baibacina,8911743,NA,NA,697,610,0.8751793400286944
+Otospermophilus_variegatus,7572569,NA,NA,21305,20451,0.9599155127904248
+Otospermophilus_beecheyi,8080937,NA,NA,49482,48443,0.9790024655430257
+Callospermophilus_saturatus,8102496,NA,NA,2593,2529,0.975318164288469
+Callospermophilus_madrensis,8228292,NA,NA,44,12,0.2727272727272727
+Callospermophilus_lateralis,7593288,NA,NA,21671,19945,0.9203543906603294
+Notocitellus_annulatus,7982454,NA,NA,274,263,0.9598540145985401
+Notocitellus_adocetus,7478670,NA,NA,68,66,0.9705882352941176
+Ammospermophilus_leucurus,2437570,NA,NA,7277,6046,0.830836883331043
+Ammospermophilus_nelsoni,2437569,NA,NA,520,507,0.975
+Ammospermophilus_interpres,2437571,NA,NA,338,325,0.9615384615384616
+Ammospermophilus_harrisii,2437568,NA,NA,2435,2321,0.9531827515400411
+Tamiasciurus_mearnsi,2437280,NA,NA,1,0,0
+Tamiasciurus_hudsonicus,2437282,Occasionally Synanthropic,NA,81443,77947,0.9570742728042926
+Tamiasciurus_douglasii,2437281,NA,NA,14575,13919,0.9549914236706689
+Syntheosciurus_brochus,2437452,NA,NA,17,9,0.5294117647058824
+Rheithrosciurus_macrotis,2437225,NA,NA,5,5,1
+Sciurus_vulgaris,8211070,Occasionally Synanthropic,NA,945875,70500,0.07453416149068323
+Sciurus_richmondi,5219665,NA,NA,6,6,1
+Sciurus_lis,5219673,Not Synanthropic,NA,4265,1660,0.3892145369284877
+Sciurus_colliaei,5219660,NA,NA,764,735,0.9620418848167539
+Sciurus_anomalus,8243249,Not Synanthropic,NA,1601,738,0.46096189881324173
+Sciurus_flammifer,5219671,NA,NA,0,0,NA
+Sciurus_niger,5219683,Occasionally Synanthropic,TRUE,131313,128879,0.9814641353102892
+Microsciurus_alfari,2437363,NA,NA,130,110,0.8461538461538461
+Sciurus_granatensis,5219666,Not Synanthropic,NA,14289,5459,0.3820421303100287
+Sciurus_pucheranii,5219688,NA,NA,715,235,0.32867132867132864
+Sciurus_nayaritensis,5219669,NA,NA,747,701,0.9384203480589023
+Sciurus_variegatoides,5219677,Not Synanthropic,NA,7699,6611,0.8586829458371217
+Sciurus_alleni,5219679,NA,NA,1036,1032,0.9961389961389961
+Sciurus_oculatus,5219664,NA,NA,398,393,0.9874371859296482
+Sciurus_aureogaster,5219663,NA,NA,10113,9645,0.9537229308810442
+Sciurus_deppei,5219680,NA,NA,1721,722,0.41952353282975013
+Sciurus_yucatanensis,5219678,NA,NA,2274,2160,0.9498680738786279
+Microsciurus_mimulus,2437360,NA,NA,123,70,0.5691056910569106
+Sciurus_sanborni,5219689,NA,NA,0,0,NA
+Sciurus_stramineus,5219690,NA,NA,465,332,0.7139784946236559
+Microsciurus_flaviventer,2437361,NA,NA,83,35,0.42168674698795183
+Sciurus_pyrrhinus,5219675,NA,NA,4,2,0.5
+Microsciurus_santanderensis,2437362,NA,NA,56,6,0.10714285714285714
+Sciurus_ignitus,5219662,NA,NA,241,215,0.8921161825726142
+Sciurus_spadiceus,5219676,NA,NA,400,334,0.835
+Sciurus_igniventris,5219682,NA,NA,226,66,0.2920353982300885
+Sciurus_gilvigularis,5219661,NA,NA,0,0,NA
+Sciurus_aestuans,5219659,NA,NA,471,154,0.32696390658174096
+Sciurus_aberti,5219667,NA,NA,3518,3355,0.9536668561682774
+Sciurus_griseus,5219672,Not Synanthropic,NA,16318,16019,0.981676676063243
+Sciurus_carolinensis,5219681,Occasionally Synanthropic,NA,696190,306299,0.4399646648185122
+Sciurus_arizonensis,5219674,NA,NA,2180,2117,0.9711009174311926
+Pteromys_volans,2437258,Occasionally Synanthropic,TRUE,86836,1208,0.013911281035515224
+Pteromys_momonga,2437259,NA,NA,7,7,1
+Biswamoyopterus_laoensis,7674638,NA,NA,0,0,NA
+Biswamoyopterus_biswasi,2437546,NA,NA,0,0,NA
+Aeromys_thomasi,2437383,NA,NA,225,81,0.36
+Aeromys_tephromelas,2437384,NA,NA,94,62,0.6595744680851063
+Eupetaurus_cinereus,2437468,NA,NA,0,0,NA
+Pteromyscus_pulverulentus,2437227,NA,NA,4,2,0.5
+Belomys_pearsonii,2437241,NA,NA,79,67,0.8481012658227848
+Aeretes_melanopterus,2437548,NA,NA,7,7,1
+Trogopterus_xanthipes,2437459,Not Synanthropic,NA,11,11,1
+Petaurista_mishmiensis,10682380,NA,NA,2,2,1
+Petaurista_nobilis,5219694,NA,NA,27,19,0.7037037037037037
+Petaurista_philippensis,5219697,NA,NA,686,164,0.239067055393586
+Petaurista_alborufus,5219696,NA,NA,1345,53,0.03940520446096654
+Petaurista_elegans,5219692,NA,NA,29,21,0.7241379310344828
+Petaurista_xanthotis,5219693,NA,NA,5,5,1
+Petaurista_mechukaensis,10857896,NA,NA,0,0,NA
+Petaurista_magnificus,5219698,NA,NA,5,3,0.6
+Petaurista_petaurista,5219691,NA,TRUE,692,521,0.7528901734104047
+Petaurista_leucogenys,5219695,NA,NA,105,68,0.6476190476190476
+Iomys_sipora,2437356,NA,NA,8,1,0.125
+Iomys_horsfieldii,2437357,NA,NA,17,17,1
+Hylopetes_alboniger,2437530,NA,NA,33,26,0.7878787878787878
+Hylopetes_sipora,2437535,NA,NA,9,2,0.2222222222222222
+Petinomys_genibarbis,2437254,NA,NA,2,2,1
+Petinomys_fuscocapillus,2437256,NA,NA,12,2,0.16666666666666666
+Petinomys_vordermanni,2437249,NA,NA,0,0,NA
+Petinomys_crinitus,2437252,NA,NA,2,0,0
+Petinomys_setosus,2437253,NA,NA,14,10,0.7142857142857143
+Petinomys_mindanensis,4264121,NA,NA,2,2,1
+Petinomys_hageni,2437251,NA,NA,0,0,NA
+Petinomys_lugens,2437250,NA,NA,56,6,0.10714285714285714
+Petaurillus_hosei,2437560,NA,NA,2,2,1
+Petaurillus_kinlochii,2437559,NA,NA,0,0,NA
+Petaurillus_emiliae,2437561,NA,NA,3,1,0.3333333333333333
+Hylopetes_platyurus,4264077,NA,NA,1,1,1
+Hylopetes_phayrei,2437528,NA,NA,16,10,0.625
+Hylopetes_bartelsi,2437533,NA,NA,0,0,NA
+Hylopetes_nigripes,2437532,NA,NA,8,4,0.5
+Hylopetes_winstoni,2437534,NA,NA,0,0,NA
+Hylopetes_spadiceus,2437531,NA,NA,26,23,0.8846153846153846
+Glaucomys_volans,2437338,Occasionally Synanthropic,TRUE,3862,3238,0.8384256861729674
+Glaucomys_sabrinus,2437331,Occasionally Synanthropic,NA,1624,1180,0.7266009852216748
+Eoglaucomys_fimbriatus,4264118,NA,NA,6,6,1
+Laonastes_aenigmamus,2437592,NA,NA,110,3,0.02727272727272727
+Ctenodactylus_vali,5219940,NA,NA,0,0,NA
+Ctenodactylus_gundi,5219941,Occasionally Synanthropic,NA,59,52,0.8813559322033898
+Pectinator_spekei,2439825,NA,NA,115,20,0.17391304347826086
+Felovia_vae,2439823,NA,TRUE,287,13,0.04529616724738676
+Massoutiera_mzabi,2439821,NA,NA,32,31,0.96875
+Trichys_fasciculata,2439429,NA,NA,33,25,0.7575757575757576
+Atherurus_macrourus,5219891,NA,NA,30,24,0.8
+Hystrix_cristata,5219888,Not Synanthropic,NA,2362,2009,0.8505503810330228
+Hystrix_sumatrae,5219886,NA,NA,2,2,1
+Hystrix_crassispinis,5219883,NA,NA,17,13,0.7647058823529411
+Hystrix_africaeaustralis,5219885,NA,NA,5749,3862,0.6717690033049226
+Hystrix_indica,5219884,NA,TRUE,16872,1278,0.07574679943100995
+Hystrix_pumila,5219889,NA,NA,3,3,1
+Hystrix_brachyura,5219890,NA,NA,2200,806,0.3663636363636364
+Hystrix_javanica,5219887,NA,NA,27,20,0.7407407407407407
+Atherurus_africanus,5219892,Not Synanthropic,NA,361,121,0.33518005540166207
+Thryonomys_swinderianus,2437636,Occasionally Synanthropic,TRUE,1245,192,0.15421686746987953
+Thryonomys_gregorianus,2437635,NA,NA,4,0,0
+Petromus_typicus,2437614,NA,FALSE,378,296,0.783068783068783
+Heterocephalus_glaber,5219654,NA,NA,44,25,0.5681818181818182
+Heliophobius_argenteocinereus,2437220,NA,NA,11,2,0.18181818181818182
+Fukomys_ilariae,8081146,NA,NA,0,0,NA
+Fukomys_vandewoestijneae,10753983,NA,NA,0,0,NA
+Fukomys_damarensis,10787086,NA,NA,61,38,0.6229508196721312
+Cryptomys_hottentotus,2437213,NA,NA,270,191,0.7074074074074074
+Georychus_capensis,5219653,NA,NA,178,163,0.9157303370786517
+Bathyergus_suillus,2437222,NA,FALSE,687,660,0.9606986899563319
+Bathyergus_janetta,2437223,NA,NA,10,10,1
+Cuniculus_taczanowskii,5706515,NA,NA,1578,24,0.015209125475285171
+Cuniculus_paca,4263039,Not Synanthropic,TRUE,37310,2035,0.0545430179576521
+Myoprocta_pratti,4264701,NA,NA,240,18,0.075
+Myoprocta_acouchy,2437590,NA,NA,503,7,0.013916500994035786
+Dasyprocta_prymnolopha,2437580,Not Synanthropic,NA,100,36,0.36
+Dasyprocta_fuliginosa,2437581,NA,NA,20118,667,0.03315438910428472
+Dasyprocta_azarae,2437582,Not Synanthropic,NA,4533,1238,0.27310831678799913
+Dasyprocta_ruatanica,2437583,NA,NA,0,0,NA
+Dasyprocta_leporina,2437577,Not Synanthropic,NA,9528,981,0.10295969773299748
+Dasyprocta_guamara,2437578,NA,NA,0,0,NA
+Dasyprocta_kalinowskii,2437574,NA,NA,1,1,1
+Dasyprocta_punctata,2437576,Not Synanthropic,TRUE,72604,12362,0.17026610104126494
+Dasyprocta_mexicana,2437584,Occasionally Synanthropic,NA,914,345,0.3774617067833698
+Dasyprocta_coibae,2437579,NA,NA,45,42,0.9333333333333333
+Kerodon_rupestris,2437616,Not Synanthropic,NA,1300,433,0.3330769230769231
+Kerodon_acrobata,4263029,NA,NA,20,8,0.4
+Hydrochoerus_isthmius,5786667,NA,NA,1679,367,0.21858248957712925
+Hydrochoerus_hydrochaeris,5786666,Not Synanthropic,TRUE,26078,11365,0.43580796073318506
+Dolichotis_salinicola,2437618,NA,NA,150,147,0.98
+Dolichotis_patagonum,2437619,Not Synanthropic,NA,824,666,0.808252427184466
+Galea_spixii,5219701,Not Synanthropic,NA,518,199,0.3841698841698842
+Galea_musteloides,5219699,Not Synanthropic,NA,373,354,0.9490616621983914
+Galea_flavidens,5219700,NA,NA,3,3,1
+Microcavia_niata,2437627,NA,NA,13,6,0.46153846153846156
+Microcavia_australis,2437626,Not Synanthropic,NA,356,338,0.949438202247191
+Microcavia_shiptoni,2437625,NA,NA,6,6,1
+Cavia_intermedia,5706497,NA,NA,4,3,0.75
+Cavia_porcellus,5219702,Occasionally Synanthropic,NA,291,37,0.12714776632302405
+Cavia_tschudii,5219705,NA,NA,216,206,0.9537037037037037
+Cavia_aperea,5219704,Not Synanthropic,TRUE,8601,3340,0.3883269387280549
+Cavia_fulgida,5219706,NA,NA,64,57,0.890625
+Cavia_magna,5219703,NA,NA,29,9,0.3103448275862069
+Chaetomys_subspinosus,2439749,Not Synanthropic,NA,96,28,0.2916666666666667
+Coendou_bicolor,2437599,NA,NA,77,61,0.7922077922077922
+Coendou_baturitensis,8827895,NA,NA,17,14,0.8235294117647058
+Coendou_prehensilis,2437600,Not Synanthropic,TRUE,776,25,0.03221649484536082
+Coendou_quichua,5786585,NA,NA,159,152,0.9559748427672956
+Coendou_speratus,8457271,NA,NA,21,21,1
+Coendou_nycthemera,4264791,NA,NA,14,5,0.35714285714285715
+Coendou_ichillus,8725405,NA,NA,9,8,0.8888888888888888
+Dinomys_branickii,2437612,NA,FALSE,90,22,0.24444444444444444
+Lagostomus_maximus,5219945,Not Synanthropic,TRUE,665,453,0.681203007518797
+Lagostomus_crassus,5706731,NA,NA,0,0,NA
+Lagidium_ahuacaense,8552708,NA,NA,5,5,1
+Lagidium_wolffsohni,2439836,NA,NA,119,108,0.907563025210084
+Lagidium_viscacia,2439834,NA,TRUE,4833,2238,0.46306641837368095
+Chinchilla_lanigera,5219944,Not Synanthropic,NA,19,2,0.10526315789473684
+Chinchilla_chinchilla,4264738,Not Synanthropic,NA,0,0,NA
+Isothrix_sinnamariensis,4262993,NA,NA,8,4,0.5
+Isothrix_pagurus,2439755,NA,NA,2,0,0
+Isothrix_negrensis,4262992,NA,NA,4,2,0.5
+Isothrix_bistriata,2439754,NA,NA,134,132,0.9850746268656716
+Isothrix_barbarabrownae,9022811,NA,NA,3,3,1
+Myocastor_coypus,4264680,Not Synanthropic,TRUE,156773,29393,0.187487641366817
+Mesomys_hispidus,5219935,NA,NA,118,40,0.3389830508474576
+Mesomys_stimulax,5219934,NA,NA,9,4,0.4444444444444444
+Mesomys_leniceps,5219933,NA,NA,1,1,1
+Mesomys_occultus,5706490,NA,NA,0,0,NA
+Lonchothrix_emiliae,2439811,NA,NA,9,1,0.1111111111111111
+Kannabateomys_amblyonyx,2439718,NA,NA,71,48,0.676056338028169
+Olallamys_edax,2439751,NA,NA,0,0,NA
+Olallamys_albicauda,2439752,NA,NA,94,5,0.05319148936170213
+Dactylomys_peruanus,2439799,NA,NA,0,0,NA
+Dactylomys_dactylinus,2439800,NA,NA,33,16,0.48484848484848486
+Dactylomys_boliviensis,2439798,NA,NA,27,16,0.5925925925925926
+Diplomys_labilis,2439803,Not Synanthropic,NA,39,37,0.9487179487179487
+Diplomys_caniceps,2439804,NA,NA,0,0,NA
+Makalata_macrura,4262962,NA,NA,20,18,0.9
+Makalata_didelphoides,4262960,NA,NA,89,37,0.4157303370786517
+Makalata_obscura,4262959,NA,NA,2,0,0
+Echimys_saturnus,5219924,NA,NA,0,0,NA
+Echimys_vieirai,5786580,NA,NA,0,0,NA
+Echimys_chrysurus,5219927,NA,NA,18,9,0.5
+Phyllomys_pattoni,4262927,NA,NA,37,2,0.05405405405405406
+Phyllomys_medius,4262930,NA,NA,0,0,NA
+Phyllomys_lamarum,4262929,NA,NA,1,1,1
+Phyllomys_brasiliensis,4262928,NA,NA,6,0,0
+Phyllomys_lundi,4262933,NA,NA,0,0,NA
+Phyllomys_thomasi,4262931,NA,NA,8,8,1
+Phyllomys_dasythrix,4262932,NA,NA,1,0,0
+Phyllomys_kerri,4262925,NA,NA,0,0,NA
+Phyllomys_sulinus,9982400,NA,NA,0,0,NA
+Phyllomys_nigrispinus,4262934,NA,NA,2,0,0
+Phyllomys_unicolor,4262935,NA,NA,0,0,NA
+Phyllomys_mantiqueirensis,4262926,NA,NA,0,0,NA
+Pattonomys_semivillosus,5786577,NA,NA,91,8,0.08791208791208792
+Thrichomys_apereoides,2439813,NA,NA,1022,16,0.015655577299412915
+Callistomys_pictus,4263000,NA,NA,1,0,0
+Proechimys_gardneri,4262970,NA,NA,8,3,0.375
+Proechimys_hoplomyoides,2439784,NA,NA,75,0,0
+Proechimys_canicollis,2439779,NA,NA,205,1,0.004878048780487805
+Proechimys_pattoni,4262967,NA,NA,12,0,0
+Proechimys_oconnelli,2439786,NA,NA,984,146,0.1483739837398374
+Proechimys_decumanus,2439781,NA,NA,0,0,NA
+Proechimys_steerei,2439759,NA,NA,8,4,0.5
+Proechimys_simonsi,2439769,NA,NA,80,11,0.1375
+Proechimys_echinothrix,4262976,NA,NA,16,0,0
+Proechimys_semispinosus,2439789,Not Synanthropic,NA,1131,63,0.05570291777188329
+Proechimys_quadruplicatus,2439767,NA,NA,25,2,0.08
+Proechimys_guairae,2439772,Not Synanthropic,NA,5,3,0.6
+Proechimys_guyannensis,4262966,Occasionally Synanthropic,NA,286,3,0.01048951048951049
+Proechimys_roberti,4262968,NA,NA,104,4,0.038461538461538464
+Proechimys_chrysaeolus,2439768,NA,NA,3004,8,0.002663115845539281
+Proechimys_goeldii,2439760,Occasionally Synanthropic,NA,22,3,0.13636363636363635
+Proechimys_kulinae,4262983,NA,NA,4,0,0
+Proechimys_brevicauda,2439788,NA,NA,15,11,0.7333333333333333
+Proechimys_cuvieri,2439790,Occasionally Synanthropic,NA,254,4,0.015748031496062992
+Proechimys_mincae,2439775,NA,NA,0,0,NA
+Proechimys_longicaudatus,2439764,NA,NA,51,5,0.09803921568627451
+Hoplomys_gymnurus,2439757,NA,NA,72,34,0.4722222222222222
+Euryzygomatomys_spinosus,2439737,NA,NA,12,2,0.16666666666666666
+Clyomys_laticeps,2439808,NA,NA,57,1,0.017543859649122806
+Thrichomys_inermis,4262997,NA,NA,7,4,0.5714285714285714
+Thrichomys_pachyurus,4262995,NA,NA,101,26,0.25742574257425743
+Thrichomys_laurentius,7855978,NA,FALSE,314,35,0.11146496815286625
+Trinomys_setosus,4262946,NA,NA,45,1,0.022222222222222223
+Trinomys_yonenagae,4262956,NA,NA,2,0,0
+Trinomys_eliasi,4262948,NA,NA,18,1,0.05555555555555555
+Trinomys_mirapitanga,4262943,NA,NA,0,0,NA
+Trinomys_paratus,4262944,NA,NA,93,1,0.010752688172043012
+Trinomys_gratiosus,4262942,NA,NA,72,2,0.027777777777777776
+Trinomys_moojeni,4262950,NA,NA,4,0,0
+Trinomys_dimidiatus,4262940,NA,NA,254,3,0.011811023622047244
+Trinomys_iheringi,4262953,Not Synanthropic,NA,153,3,0.0196078431372549
+Trinomys_albispinus,8909441,NA,NA,46,1,0.021739130434782608
+Geocapromys_columbianus,4828181,NA,NA,0,0,NA
+Geocapromys_thoracatus,2437649,NA,NA,0,0,NA
+Geocapromys_brownii,2437650,NA,NA,0,0,NA
+Geocapromys_ingrahami,2437651,NA,NA,6,6,1
+Capromys_pilorides,2437653,NA,FALSE,108,98,0.9074074074074074
+Heteropsomys_insulans,2439793,NA,NA,0,0,NA
+Boromys_torrei,5219939,NA,NA,0,0,NA
+Boromys_offella,5219938,NA,NA,0,0,NA
+Mesocapromys_angelcabrerai,2437643,NA,NA,0,0,NA
+Mesocapromys_nanus,2437642,NA,NA,0,0,NA
+Mesocapromys_auritus,2437645,NA,NA,0,0,NA
+Mesocapromys_sanfelipensis,2437644,NA,NA,0,0,NA
+Mysateles_prehensilis,2437664,NA,NA,6,6,1
+Plagiodontia_ipnaeum,2437640,NA,NA,0,0,NA
+Plagiodontia_aedium,2437638,NA,NA,21,15,0.7142857142857143
+Isolobodon_portoricensis,2437656,NA,NA,1,1,1
+Isolobodon_montanus,2437655,NA,NA,0,0,NA
+Hexolobodon_phenax,2437647,NA,NA,0,0,NA
+Carterodon_sulcidens,2439735,NA,NA,0,0,NA
+Brotomys_voratus,2439816,NA,NA,0,0,NA
+Ctenomys_peruanus,2439642,NA,NA,0,0,NA
+Ctenomys_tuconax,2439636,NA,NA,2,2,1
+Ctenomys_juris,4263369,NA,NA,0,0,NA
+Ctenomys_johannis,4263377,NA,NA,0,0,NA
+Ctenomys_bergi,4263411,NA,NA,12,8,0.6666666666666666
+Ctenomys_pontifex,2439631,NA,NA,0,0,NA
+Ctenomys_steinbachi,2439634,NA,NA,0,0,NA
+Ctenomys_boliviensis,2439616,NA,NA,2,0,0
+Ctenomys_goodfellowi,4263406,NA,NA,0,0,NA
+Ctenomys_saltarius,2439606,NA,NA,0,0,NA
+Ctenomys_scagliai,4263399,NA,NA,0,0,NA
+Ctenomys_fulvus,2439609,NA,NA,13,13,1
+Ctenomys_opimus,2439640,NA,FALSE,83,51,0.6144578313253012
+Ctenomys_brasiliensis,2439630,NA,NA,0,0,NA
+Ctenomys_magellanicus,2439613,NA,NA,30,18,0.6
+Ctenomys_colburni,2439618,NA,NA,0,0,NA
+Ctenomys_validus,2439612,NA,NA,0,0,NA
+Ctenomys_haigi,2439635,NA,NA,12,3,0.25
+Ctenomys_knighti,2439622,NA,NA,0,0,NA
+Ctenomys_sociabilis,2439608,NA,NA,17,3,0.17647058823529413
+Ctenomys_osvaldoreigi,4263386,NA,NA,6,5,0.8333333333333334
+Ctenomys_coludo,4263382,NA,NA,0,0,NA
+Ctenomys_sericeus,2439633,NA,NA,5,5,1
+Ctenomys_emilianus,2439620,NA,NA,0,0,NA
+Ctenomys_fodax,4263412,NA,NA,0,0,NA
+Ctenomys_maulinus,2439638,NA,NA,22,20,0.9090909090909091
+Ctenomys_coyhaiquensis,4263368,NA,NA,2,0,0
+Ctenomys_pilarensis,4263404,NA,NA,0,0,NA
+Ctenomys_latro,2439611,NA,NA,0,0,NA
+Ctenomys_occultus,2439615,NA,NA,0,0,NA
+Ctenomys_argentinus,2439626,NA,NA,1,1,1
+Ctenomys_tucumanus,2439623,NA,NA,3,3,1
+Ctenomys_fochi,4263371,NA,NA,0,0,NA
+Ctenomys_talarum,2439621,Not Synanthropic,NA,71,30,0.4225352112676056
+Ctenomys_pundti,4263380,NA,NA,0,0,NA
+Ctenomys_dorsalis,2439632,NA,NA,1,1,1
+Ctenomys_leucodon,2439637,NA,NA,0,0,NA
+Ctenomys_viperinus,4263367,NA,NA,0,0,NA
+Ctenomys_rionegrensis,4263376,NA,NA,8,6,0.75
+Ctenomys_mendocinus,2439625,NA,NA,31,31,1
+Ctenomys_porteousi,2439619,NA,NA,0,0,NA
+Ctenomys_australis,2439639,NA,NA,12,12,1
+Ctenomys_azarae,2439628,NA,NA,0,0,NA
+Ctenomys_bonettoi,2439641,NA,NA,0,0,NA
+Ctenomys_yolandae,4263407,NA,NA,39,10,0.2564102564102564
+Ctenomys_flamarioni,4263378,NA,NA,41,31,0.7560975609756098
+Ctenomys_ibicuiensis,10732087,NA,NA,0,0,NA
+Ctenomys_lami,4263400,NA,NA,1,1,1
+Ctenomys_minutus,2439614,NA,NA,21,6,0.2857142857142857
+Ctenomys_torquatus,2439610,NA,NA,15,14,0.9333333333333333
+Ctenomys_perrensi,4263372,NA,NA,0,0,NA
+Ctenomys_roigi,4263417,NA,NA,0,0,NA
+Ctenomys_dorbignyi,4263408,NA,NA,0,0,NA
+Ctenomys_pearsoni,2439629,NA,NA,43,41,0.9534883720930233
+Ctenomys_frater,2439607,NA,NA,0,0,NA
+Ctenomys_lewisi,2439624,NA,NA,0,0,NA
+Ctenomys_famosus,4263385,NA,NA,0,0,NA
+Ctenomys_conoveri,2439643,NA,NA,15,15,1
+Ctenomys_tulduco,4263381,NA,NA,0,0,NA
+Octomys_mimax,5219901,NA,NA,2,0,0
+Tympanoctomys_loschalchalerosorum,10836797,NA,NA,0,0,NA
+Tympanoctomys_barrerae,2439645,NA,NA,5,2,0.4
+Tympanoctomys_kirchnerorum,10787196,NA,NA,0,0,NA
+Octodontomys_gliroides,2439604,NA,NA,17,4,0.23529411764705882
+Octodon_bridgesi,5219899,NA,NA,5,5,1
+Octodon_lunatus,5219898,NA,NA,6,6,1
+Octodon_pacificus,5706751,NA,NA,5,0,0
+Octodon_degus,5219900,Occasionally Synanthropic,TRUE,450,289,0.6422222222222222
+Spalacopus_cyanus,2439602,NA,NA,552,280,0.5072463768115942
+Aconaemys_porteri,4265002,NA,NA,3,0,0
+Aconaemys_sagei,2439654,NA,NA,0,0,NA
+Aconaemys_fuscus,2439653,NA,NA,3,3,1
+Abrocoma_budini,4264779,NA,NA,0,0,NA
+Abrocoma_vaccarum,4264781,NA,NA,0,0,NA
+Abrocoma_boliviensis,2439414,NA,NA,0,0,NA
+Abrocoma_cinerea,2439415,NA,NA,9,1,0.1111111111111111
+Abrocoma_famatina,4264782,NA,NA,0,0,NA
+Cuscomys_oblativa,4264785,NA,NA,0,0,NA
+Cuscomys_ashaninka,4264786,NA,NA,0,0,NA
+Abrocoma_bennettii,2439416,Not Synanthropic,NA,38,22,0.5789473684210527
+Abrocoma_uspallata,4264783,NA,NA,0,0,NA
+Abrocoma_shistacea,4264778,NA,NA,0,0,NA
+Eozapus_setchuanus,2439431,NA,NA,9,3,0.3333333333333333
+Napaeozapus_insignis,2439461,NA,NA,4625,338,0.07308108108108108
+Zapus_trinotatus,2439471,NA,NA,402,111,0.27611940298507465
+Zapus_princeps,2439473,NA,NA,1789,64,0.03577417551704863
+Zapus_hudsonius,2439467,Not Synanthropic,TRUE,3787,838,0.22128333773435438
+Paradipus_ctenodactylus,2439437,NA,NA,0,0,NA
+Dipus_sagitta,2439463,Occasionally Synanthropic,NA,288,28,0.09722222222222222
+Jaculus_orientalis,5219894,NA,NA,524,9,0.01717557251908397
+Jaculus_jaculus,5219895,Not Synanthropic,TRUE,1643,117,0.07121119902617164
+Jaculus_blanfordi,5219897,NA,NA,2,1,0.5
+Eremodipus_lichtensteini,2439457,NA,NA,1,0,0
+Stylodipus_andrewsi,2439455,NA,NA,40,2,0.05
+Stylodipus_sungorus,2439454,NA,NA,34,0,0
+Stylodipus_telum,2439453,NA,NA,456,7,0.015350877192982455
+Allactaga_euphratica,2439484,NA,NA,0,0,NA
+Allactaga_vinogradovi,2439482,NA,NA,0,0,NA
+Allactaga_williamsi,4262923,NA,NA,1,0,0
+Allactaga_tetradactyla,2439486,NA,NA,0,0,NA
+Allactaga_elater,2439489,NA,NA,89,30,0.33707865168539325
+Allactaga_severtzovi,2439487,NA,NA,5,3,0.6
+Allactaga_hotsoni,2439488,NA,NA,0,0,NA
+Allactaga_sibirica,2439490,Occasionally Synanthropic,TRUE,372,40,0.10752688172043011
+Allactaga_bullata,2439492,NA,NA,81,0,0
+Pygeretmus_pumilio,2439433,Not Synanthropic,NA,51,6,0.11764705882352941
+Pygeretmus_platyurus,2439434,NA,NA,0,0,NA
+Allactaga_balikunica,2439485,NA,NA,47,0,0
+Allactaga_major,2439483,NA,NA,70,54,0.7714285714285715
+Allactodipus_bobrinskii,2439459,NA,NA,1,1,1
+Euchoreutes_naso,2439475,NA,TRUE,90,5,0.05555555555555555
+Salpingotus_pallidus,2439494,NA,NA,0,0,NA
+Salpingotus_kozlovi,2439498,NA,NA,7,1,0.14285714285714285
+Salpingotus_heptneri,2439496,NA,NA,0,0,NA
+Salpingotus_crassicauda,2439499,NA,NA,9,5,0.5555555555555556
+Cardiocranius_paradoxus,2439465,NA,NA,42,3,0.07142857142857142
+Salpingotulus_michaelis,4262922,NA,NA,0,0,NA
+Sicista_tianshanica,2439443,NA,NA,13,0,0
+Sicista_kazbegica,2439450,NA,NA,1,0,0
+Sicista_strandi,2439448,NA,NA,4,0,0
+Sicista_betulina,2439449,Not Synanthropic,TRUE,1843,91,0.049376017362995114
+Sicista_subtilis,2439439,Not Synanthropic,NA,51,16,0.3137254901960784
+Sicista_concolor,2439446,NA,NA,4,2,0.5
+Sicista_napaea,2439447,NA,NA,1,1,1
+Sicista_pseudonapaea,2439451,NA,NA,0,0,NA
+Sicista_severtzovi,2439442,NA,NA,3,0,0
+Sicista_armenica,2439444,NA,NA,0,0,NA
+Sicista_caudata,2439445,NA,NA,1,1,1
+Sicista_kluchorica,2439441,NA,NA,6,1,0.16666666666666666
+Sicista_caucasica,2439440,NA,NA,4,1,0.25
+Typhlomys_cinereus,2437710,NA,NA,12,0,0
+Platacanthomys_lasiurus,2438590,NA,NA,19,7,0.3684210526315789
+Spalax_graecus,2438885,NA,NA,5,5,1
+Spalax_microphthalmus,2438883,NA,NA,450,201,0.44666666666666666
+Spalax_arenarius,2438884,NA,FALSE,1015,11,0.01083743842364532
+Spalax_zemni,2438881,NA,NA,341,33,0.0967741935483871
+Spalax_giganteus,2438882,NA,NA,3,2,0.6666666666666666
+Spalax_uralensis,4264697,NA,NA,0,0,NA
+Myospalax_aspalax,2439122,NA,NA,12,6,0.5
+Myospalax_psilurus,2439125,NA,NA,7,2,0.2857142857142857
+Myospalax_myospalax,2439121,NA,NA,56,56,1
+Eospalax_rothschildi,4264686,NA,NA,0,0,NA
+Eospalax_smithii,4264685,NA,NA,1,0,0
+Eospalax_fontanierii,4264687,NA,NA,14,2,0.14285714285714285
+Tachyoryctes_splendens,2438337,NA,NA,10,9,0.9
+Tachyoryctes_macrocephalus,2438339,NA,FALSE,118,33,0.2796610169491525
+Rhizomys_sinensis,2438057,Not Synanthropic,NA,9,3,0.3333333333333333
+Rhizomys_sumatrensis,2438058,Not Synanthropic,NA,24,14,0.5833333333333334
+Rhizomys_pruinosus,2438059,Not Synanthropic,NA,248,8,0.03225806451612903
+Cannomys_badius,2438494,Occasionally Synanthropic,NA,16,6,0.375
+Lophiomys_imhausi,5219729,NA,NA,25,24,0.96
+Meriones_crassus,5219724,Occasionally Synanthropic,NA,59,17,0.288135593220339
+Meriones_rex,5219726,NA,NA,13,2,0.15384615384615385
+Meriones_libycus,5219725,Not Synanthropic,NA,781,59,0.07554417413572344
+Meriones_grandis,5706750,NA,NA,4,4,1
+Meriones_tristrami,5219715,Not Synanthropic,NA,588,22,0.03741496598639456
+Meriones_persicus,5219719,Occasionally Synanthropic,NA,26,14,0.5384615384615384
+Meriones_unguiculatus,5219721,Occasionally Synanthropic,NA,425,111,0.2611764705882353
+Meriones_sacramenti,5219714,Occasionally Synanthropic,NA,166,10,0.060240963855421686
+Meriones_shawi,5219720,Occasionally Synanthropic,NA,45,36,0.8
+Meriones_vinogradovi,5219716,Not Synanthropic,NA,1,1,1
+Meriones_arimalius,5219723,NA,NA,10,10,1
+Meriones_meridianus,5219713,Occasionally Synanthropic,NA,225,26,0.11555555555555555
+Meriones_chengi,5219712,NA,NA,2,0,0
+Psammomys_vexillaris,5219746,Not Synanthropic,NA,0,0,NA
+Psammomys_obesus,5219747,Occasionally Synanthropic,TRUE,1086,222,0.20441988950276244
+Meriones_dahli,5219717,NA,NA,0,0,NA
+Brachiones_przewalskii,2438980,NA,NA,2,0,0
+Rhombomys_opimus,2437935,Not Synanthropic,NA,330,236,0.7151515151515152
+Meriones_zarudnyi,5219722,NA,NA,0,0,NA
+Meriones_tamariscinus,5219727,Not Synanthropic,NA,60,1,0.016666666666666666
+Meriones_hurrianae,5219718,Not Synanthropic,NA,82,75,0.9146341463414634
+Taterillus_pygargus,2439217,NA,NA,0,0,NA
+Taterillus_arenarius,2439214,NA,NA,56,0,0
+Taterillus_congicus,2439219,NA,NA,80,0,0
+Taterillus_gracilis,2439213,Not Synanthropic,NA,157,4,0.025477707006369428
+Taterillus_emini,2439216,NA,NA,20,6,0.3
+Taterillus_lacustris,2439215,NA,NA,56,0,0
+Taterillus_tranieri,4264824,NA,NA,0,0,NA
+Taterillus_petteri,2439212,NA,NA,59,0,0
+Microdillus_peeli,2437725,NA,NA,0,0,NA
+Gerbillus_nancillus,2437797,NA,NA,3,0,0
+Gerbillus_cheesmani,2437830,NA,NA,90,81,0.9
+Gerbillus_gerbillus,2437787,Not Synanthropic,NA,286,22,0.07692307692307693
+Gerbillus_andersoni,2437786,Not Synanthropic,NA,223,4,0.017937219730941704
+Gerbillus_nigeriae,2437839,NA,NA,90,0,0
+Gerbillus_occiduus,2437828,Not Synanthropic,NA,19,0,0
+Gerbillus_tarabuli,2437840,NA,NA,119,18,0.15126050420168066
+Gerbillus_rosalinda,2437785,NA,NA,0,0,NA
+Gerbillus_hesperinus,2437791,NA,NA,0,0,NA
+Gerbillus_hoogstraali,2437842,NA,NA,1,1,1
+Gerbillus_aquilus,2437837,NA,NA,0,0,NA
+Gerbillus_latastei,2437810,NA,NA,0,0,NA
+Gerbillus_pusillus,2437822,NA,NA,1,1,1
+Gerbillus_perpallidus,2437809,NA,NA,0,0,NA
+Gerbillus_floweri,2437804,NA,NA,79,1,0.012658227848101266
+Gerbillus_pyramidum,2437811,Occasionally Synanthropic,NA,156,1,0.00641025641025641
+Gerbillus_watersi,2437818,NA,NA,0,0,NA
+Gerbillus_acticola,2437783,NA,NA,0,0,NA
+Gerbillus_brockmani,2437790,NA,NA,0,0,NA
+Gerbillus_pulvinatus,2437832,NA,NA,0,0,NA
+Gerbillus_grobbeni,2437816,NA,NA,0,0,NA
+Gerbillus_gleadowi,2437838,NA,NA,1,1,1
+Gerbillus_burtoni,2437799,NA,NA,0,0,NA
+Gerbillus_famulus,2437813,NA,NA,0,0,NA
+Gerbillus_dunni,2437824,NA,NA,0,0,NA
+Gerbillus_agag,2437833,NA,NA,0,0,NA
+Gerbillus_amoenus,2437812,NA,NA,4,0,0
+Gerbillus_nanus,2437788,Occasionally Synanthropic,TRUE,494,19,0.038461538461538464
+Gerbillus_principulus,2437843,NA,NA,0,0,NA
+Gerbillus_muriculus,2437805,NA,NA,0,0,NA
+Gerbillus_henleyi,2437800,Not Synanthropic,NA,105,7,0.06666666666666667
+Gerbillus_mesopotamiae,2437814,NA,NA,0,0,NA
+Gerbillus_poecilops,2437792,NA,NA,0,0,NA
+Sekeetamys_calurus,2438045,Not Synanthropic,NA,45,3,0.06666666666666667
+Pachyuromys_duprasi,2437746,NA,TRUE,126,36,0.2857142857142857
+Ammodillus_imbellis,2438331,NA,NA,0,0,NA
+Desmodilliscus_braueri,2437685,NA,TRUE,126,0,0
+Gerbillurus_paeba,2438751,NA,NA,60,15,0.25
+Gerbillurus_setzeri,2438753,NA,NA,15,1,0.06666666666666667
+Gerbillurus_tytonis,2438752,NA,NA,4,3,0.75
+Gerbilliscus_nigricaudus,4264945,NA,NA,3,1,0.3333333333333333
+Gerbilliscus_robustus,4264947,Not Synanthropic,NA,25,0,0
+Gerbilliscus_phillipsi,4264941,NA,NA,1,1,1
+Gerbilliscus_validus,4264944,NA,NA,12,0,0
+Gerbilliscus_leucogaster,4264948,Not Synanthropic,TRUE,134,29,0.21641791044776118
+Gerbilliscus_afra,4264940,NA,NA,0,0,NA
+Gerbilliscus_brantsii,4264943,NA,NA,11,3,0.2727272727272727
+Gerbilliscus_gambiana,5786739,NA,FALSE,65,0,0
+Gerbilliscus_guineae,4264949,Not Synanthropic,NA,66,0,0
+Gerbillurus_vallinus,2438750,Not Synanthropic,NA,3,2,0.6666666666666666
+Gerbilliscus_boehmi,4264950,NA,NA,0,0,NA
+Gerbilliscus_inclusus,4264946,NA,NA,0,0,NA
+Leimacomys_buettneri,2438372,NA,NA,0,0,NA
+Desmodillus_auricularis,2437723,NA,NA,30,8,0.26666666666666666
+Tatera_indica,2438134,Occasionally Synanthropic,FALSE,162,59,0.36419753086419754
+Uranomys_ruddi,2439014,NA,TRUE,252,0,0
+Deomys_ferrugineus,2438901,NA,NA,140,3,0.02142857142857143
+Lophuromys_kilonzoi,8718010,NA,NA,96,0,0
+Lophuromys_makundii,9115528,NA,NA,260,0,0
+Lophuromys_medicaudatus,2437670,NA,NA,0,0,NA
+Lophuromys_brevicaudus,4264926,NA,NA,0,0,NA
+Lophuromys_dieterleni,4264927,NA,NA,6,0,0
+Lophuromys_sabunii,9013349,NA,NA,157,0,0
+Lophuromys_menageshae,10695035,NA,NA,0,0,NA
+Lophuromys_nudicaudus,2437672,NA,NA,24,0,0
+Lophuromys_machangui,9220295,NA,TRUE,386,2,0.0051813471502590676
+Lophuromys_melanonyx,2437676,NA,NA,9,9,1
+Lophuromys_pseudosikapusi,10887453,NA,NA,0,0,NA
+Lophuromys_chrysopus,4264935,NA,NA,0,0,NA
+Lophuromys_chercherensis,10820417,NA,NA,0,0,NA
+Lophuromys_luteogaster,2437673,NA,NA,8,0,0
+Lophuromys_flavopunctatus,2437668,Occasionally Synanthropic,NA,11,0,0
+Lophuromys_sikapusi,2437675,Occasionally Synanthropic,TRUE,557,1,0.0017953321364452424
+Lophuromys_stanleyi,10711886,NA,NA,285,0,0
+Lophuromys_huttereri,4264932,NA,NA,6,0,0
+Lophuromys_woosnami,2437674,NA,NA,131,0,0
+Lophuromys_eisentrauti,4264936,NA,NA,3,0,0
+Lophuromys_rahmi,2437669,NA,NA,30,1,0.03333333333333333
+Lophuromys_roseveari,4264933,NA,NA,9,0,0
+Acomys_ngurui,7743787,NA,NA,0,0,NA
+Acomys_muzei,7817910,NA,NA,4,0,0
+Acomys_spinosissimus,2438266,Not Synanthropic,NA,82,0,0
+Acomys_seurati,4264826,NA,NA,0,0,NA
+Acomys_mullah,2438256,NA,NA,0,0,NA
+Acomys_russatus,2438257,Not Synanthropic,NA,330,56,0.1696969696969697
+Acomys_percivali,2438265,NA,NA,11,2,0.18181818181818182
+Acomys_subspinosus,2438258,NA,NA,12,12,1
+Acomys_wilsoni,2438262,NA,TRUE,70,5,0.07142857142857142
+Acomys_ignitus,2438263,NA,NA,1,0,0
+Acomys_airensis,4264831,NA,NA,83,0,0
+Acomys_dimidiatus,4264830,Occasionally Synanthropic,FALSE,763,44,0.057667103538663174
+Acomys_cahirinus,9800308,Occasionally Synanthropic,NA,32,5,0.15625
+Acomys_minous,2438264,NA,NA,1,0,0
+Acomys_nesiotes,2438261,NA,NA,0,0,NA
+Acomys_cilicicus,2438254,NA,NA,0,0,NA
+Acomys_kempi,2438255,NA,NA,3,0,0
+Acomys_louisae,2438260,NA,NA,0,0,NA
+Acomys_cineraceus,4264827,NA,NA,4,0,0
+Acomys_johannis,4264828,NA,NA,24,0,0
+Pithecheirops_otion,4264861,NA,NA,3,3,1
+Kadarsanomys_sodyi,2438504,NA,NA,0,0,NA
+Papagomys_armandvillei,2438411,NA,NA,2,2,1
+Phloeomys_pallidus,2438569,NA,NA,8,4,0.5
+Phloeomys_cumingi,2438568,NA,NA,8,6,0.75
+Batomys_salomonseni,2437749,NA,NA,31,0,0
+Batomys_dentatus,2437748,NA,NA,0,0,NA
+Batomys_russatus,4264816,NA,NA,1,0,0
+Batomys_uragon,9118812,NA,NA,0,0,NA
+Batomys_granti,2437750,NA,NA,24,0,0
+Crateromys_australis,2438818,NA,NA,0,0,NA
+Crateromys_paulus,2438817,NA,NA,0,0,NA
+Crateromys_heaneyi,4264811,NA,NA,2,1,0.5
+Crateromys_schadenbergi,2438816,NA,NA,2,0,0
+Carpomys_phaeurus,2438547,NA,NA,1,0,0
+Carpomys_melanurus,2438548,NA,NA,1,0,0
+Musseromys_inopinatus,8137130,NA,NA,5,0,0
+Musseromys_gulantang,7374359,NA,NA,1,0,0
+Musseromys_beneficus,7873551,NA,NA,3,0,0
+Musseromys_anacuao,7626147,NA,NA,3,0,0
+Haeromys_margarettae,2438870,NA,NA,1,1,1
+Haeromys_pusillus,2438869,NA,NA,2,0,0
+Haeromys_minahassae,2438868,NA,NA,5,0,0
+Archboldomys_maximus,8279910,NA,NA,15,0,0
+Archboldomys_luzonensis,2437704,NA,NA,0,0,NA
+Rhynchomys_tapulao,5786738,NA,NA,3,0,0
+Rhynchomys_soricoides,5219782,NA,NA,46,0,0
+Rhynchomys_isarogensis,5219783,NA,NA,0,0,NA
+Rhynchomys_banahao,5786737,NA,NA,3,0,0
+Chrotomys_silaceus,4264825,NA,NA,102,0,0
+Chrotomys_sibuyanensis,5786707,NA,NA,0,0,NA
+Chrotomys_whiteheadi,2438292,NA,NA,153,0,0
+Chrotomys_mindorensis,2438290,NA,NA,205,2,0.00975609756097561
+Chrotomys_gonzalesi,2438291,NA,NA,0,0,NA
+Soricomys_musseri,8244502,NA,NA,5,0,0
+Soricomys_montanus,8086487,NA,NA,19,0,0
+Soricomys_kalinga,7728863,NA,NA,29,0,0
+Apomys_abrae,2438430,NA,NA,160,0,0
+Apomys_datae,2438427,NA,NA,1194,0,0
+Apomys_lubangensis,10832581,NA,NA,60,0,0
+Apomys_sacobianus,2438431,NA,NA,195,0,0
+Apomys_brownorum,9089370,NA,NA,35,0,0
+Apomys_banahao,9166382,NA,NA,322,0,0
+Apomys_littoralis,2438432,NA,NA,1,0,0
+Apomys_minganensis,9097909,NA,NA,99,0,0
+Apomys_sierrae,9218371,NA,NA,489,0,0
+Apomys_zambalensis,9070001,NA,NA,240,0,0
+Apomys_iridensis,10858438,NA,NA,83,0,0
+Apomys_magnus,9220595,NA,NA,6,0,0
+Apomys_aurorae,9061385,NA,NA,100,0,0
+Apomys_gracilirostris,4264813,NA,NA,25,0,0
+Apomys_microdon,2438428,NA,NA,184,0,0
+Apomys_musculus,2438426,NA,NA,182,0,0
+Apomys_camiguinensis,5786720,NA,NA,4,0,0
+Apomys_insignis,2438429,NA,NA,71,2,0.028169014084507043
+Apomys_hylocetes,4264812,NA,NA,5,0,0
+Baiyankamys_shawmayeri,5786676,NA,NA,0,0,NA
+Baiyankamys_habbema,5786677,NA,NA,0,0,NA
+Anonymomys_mindorensis,2437876,NA,NA,26,0,0
+Anisomys_imitator,2438052,NA,NA,0,0,NA
+Leggadina_lakedownensis,2438287,Not Synanthropic,NA,472,5,0.01059322033898305
+Leggadina_forresti,2438288,Not Synanthropic,NA,1075,11,0.010232558139534883
+Pseudomys_calabyi,5706749,NA,NA,42,0,0
+Pseudomys_gracilicaudatus,5219804,Not Synanthropic,NA,249,22,0.08835341365461848
+Pseudomys_pilligaensis,5219808,NA,NA,0,0,NA
+Pseudomys_delicatulus,5219785,Not Synanthropic,NA,7879,8,0.0010153572788424927
+Pseudomys_fieldi,5219794,NA,NA,0,0,NA
+Pseudomys_patrius,5219791,NA,NA,14,1,0.07142857142857142
+Pseudomys_novaehollandiae,5219790,Not Synanthropic,NA,1677,9,0.005366726296958855
+Pseudomys_australis,5219792,Not Synanthropic,NA,2401,10,0.004164931278633903
+Pseudomys_desertor,5219802,Not Synanthropic,NA,1554,11,0.007078507078507079
+Pseudomys_oralis,5219798,NA,NA,964,1,0.001037344398340249
+Pseudomys_fumeus,5219786,NA,NA,1387,0,0
+Pseudomys_johnsoni,5219789,NA,NA,59,1,0.01694915254237288
+Pseudomys_bolami,5219784,NA,NA,1757,17,0.009675583380762664
+Mastacomys_fuscus,4264849,Not Synanthropic,NA,2492,34,0.013643659711075442
+Pseudomys_hermannsburgensis,5219796,Not Synanthropic,NA,7613,20,0.002627085248916327
+Notomys_amplus,2438975,NA,NA,0,0,NA
+Notomys_cervinus,2438974,NA,NA,103,2,0.019417475728155338
+Notomys_mordax,2438976,NA,NA,0,0,NA
+Notomys_mitchellii,2438971,NA,NA,3578,15,0.004192286193404136
+Notomys_alexis,2438970,Not Synanthropic,NA,10462,64,0.006117377174536418
+Notomys_fuscus,2438972,Not Synanthropic,NA,1457,18,0.012354152367879203
+Notomys_longicaudatus,2438977,NA,NA,0,0,NA
+Notomys_aquilo,2438978,NA,NA,64,0,0
+Notomys_macrotis,2438973,NA,NA,0,0,NA
+Pseudomys_albocinereus,5219807,Not Synanthropic,NA,5,3,0.6
+Pseudomys_apodemoides,5219799,NA,NA,2029,33,0.016264169541646133
+Pseudomys_chapmani,5219801,NA,NA,8,8,1
+Pseudomys_gouldii,5219787,NA,NA,812,0,0
+Pseudomys_glaucus,5219795,NA,NA,0,0,NA
+Pseudomys_shortridgei,5219793,NA,NA,269,5,0.01858736059479554
+Pseudomys_nanus,5219797,Not Synanthropic,NA,1919,6,0.003126628452318916
+Pseudomys_higginsi,5219788,NA,NA,13,12,0.9230769230769231
+Pseudomys_occidentalis,5219806,NA,NA,3,0,0
+Zyzomys_maini,2439330,NA,NA,512,2,0.00390625
+Zyzomys_palatalis,4828288,NA,NA,364,0,0
+Zyzomys_pedunculatus,2439329,NA,NA,5479,3,5.475451724767294e-4
+Zyzomys_woodwardi,2439327,NA,NA,3425,9,0.002627737226277372
+Zyzomys_argurus,2439331,NA,NA,48640,37,7.606907894736842e-4
+Conilurus_penicillatus,2437959,Not Synanthropic,NA,2892,8,0.0027662517289073307
+Conilurus_albipes,2437960,NA,NA,2,0,0
+Mesembriomys_macrurus,2438497,NA,NA,503,5,0.009940357852882704
+Mesembriomys_gouldii,2438496,Not Synanthropic,NA,8568,49,0.005718954248366013
+Leporillus_conditor,2437780,NA,NA,711,10,0.014064697609001406
+Leporillus_apicalis,2437781,NA,NA,10,0,0
+Paramelomys_naso,4264868,NA,NA,0,0,NA
+Paramelomys_steini,4264867,NA,NA,0,0,NA
+Paramelomys_moncktoni,4264871,NA,NA,0,0,NA
+Paramelomys_platyops,4264864,NA,NA,9,7,0.7777777777777778
+Paramelomys_lorentzii,4264869,NA,NA,0,0,NA
+Paramelomys_levipes,4264872,NA,NA,0,0,NA
+Paramelomys_gressitti,4264866,NA,NA,0,0,NA
+Paramelomys_mollis,4264865,NA,NA,0,0,NA
+Paramelomys_rubex,4264870,NA,NA,42,0,0
+Melomys_caurinus,4264962,NA,NA,0,0,NA
+Melomys_fulgens,4264964,NA,NA,0,0,NA
+Melomys_bougainville,2438999,NA,NA,2,0,0
+Melomys_burtoni,2439007,Not Synanthropic,NA,5493,38,0.006917895503367923
+Melomys_obiensis,2438996,NA,NA,0,0,NA
+Melomys_howi,4264968,NA,NA,0,0,NA
+Melomys_lutillus,4264965,NA,NA,62,0,0
+Melomys_matambuai,4264969,NA,NA,2,0,0
+Melomys_dollmani,4264963,NA,NA,0,0,NA
+Melomys_paveli,4264966,NA,NA,0,0,NA
+Melomys_bannisteri,4264959,NA,NA,0,0,NA
+Melomys_arcium,4264967,NA,NA,0,0,NA
+Melomys_frigicola,4264961,NA,NA,0,0,NA
+Melomys_cooperae,4264960,NA,NA,0,0,NA
+Melomys_leucogaster,2439002,NA,NA,0,0,NA
+Melomys_fraterculus,2439001,NA,NA,0,0,NA
+Melomys_rufescens,2438998,NA,NA,34,12,0.35294117647058826
+Melomys_aerosus,2438992,NA,NA,0,0,NA
+Solomys_sapientis,2438242,NA,NA,0,0,NA
+Solomys_salamonis,2438241,NA,NA,0,0,NA
+Solomys_salebrosus,2438239,NA,NA,0,0,NA
+Solomys_ponceleti,2438243,NA,NA,0,0,NA
+Melomys_capensis,2438993,NA,NA,74,18,0.24324324324324326
+Melomys_rubicola,2439012,NA,NA,0,0,NA
+Melomys_talaudium,4264970,NA,NA,0,0,NA
+Melomys_cervinipes,2439000,Not Synanthropic,NA,2127,416,0.19558062999529854
+Uromys_hadrourus,2438192,NA,NA,3,0,0
+Uromys_rex,2438195,NA,NA,0,0,NA
+Uromys_porculus,2438191,NA,NA,0,0,NA
+Uromys_neobritannicus,4264975,NA,NA,0,0,NA
+Uromys_imperator,2438196,NA,NA,0,0,NA
+Uromys_emmae,4264976,NA,NA,0,0,NA
+Uromys_boeadii,4264974,NA,NA,0,0,NA
+Uromys_siebersi,4264977,NA,NA,0,0,NA
+Uromys_anak,2438190,NA,NA,3,3,1
+Uromys_caudimaculatus,2438194,Not Synanthropic,NA,1868,317,0.16970021413276232
+Parahydromys_asper,2438486,NA,NA,0,0,NA
+Eropeplus_canus,2438145,NA,NA,7,0,0
+Hydromys_ziegleri,5786669,NA,NA,0,0,NA
+Hydromys_neobritannicus,4264994,NA,NA,0,0,NA
+Hydromys_hussoni,2438707,NA,NA,0,0,NA
+Hydromys_chrysogaster,2438706,Not Synanthropic,FALSE,4769,2127,0.4460054518767037
+Lenomys_meyeri,2438061,NA,NA,5,1,0.2
+Crossomys_moncktoni,2438683,NA,NA,1,0,0
+Leptomys_ernstmayri,2437738,NA,NA,0,0,NA
+Leptomys_signatus,2437736,NA,NA,0,0,NA
+Leptomys_elegans,2437737,NA,NA,0,0,NA
+Pogonomelomys_mayeri,2438692,NA,NA,0,0,NA
+Pogonomelomys_brassi,5786723,NA,NA,1,1,1
+Xeromys_myoides,2439284,NA,NA,17,0,0
+Pseudohydromys_carlae,7487295,NA,NA,0,0,NA
+Pseudohydromys_berniceae,7821810,NA,NA,0,0,NA
+Pseudohydromys_eleanorae,7991590,NA,NA,0,0,NA
+Pseudohydromys_murinus,2438407,NA,NA,0,0,NA
+Pseudohydromys_fuscus,4264817,NA,NA,1,0,0
+Pseudohydromys_occidentalis,2438406,NA,NA,0,0,NA
+Pseudohydromys_pumehanae,7677000,NA,NA,0,0,NA
+Pseudohydromys_germani,5786673,NA,NA,0,0,NA
+Pseudohydromys_ellermani,4264818,NA,NA,0,0,NA
+Pseudohydromys_musseri,7867508,NA,NA,0,0,NA
+Pseudohydromys_sandrae,7368744,NA,NA,0,0,NA
+Pseudohydromys_patriciae,8190299,NA,NA,0,0,NA
+Abeomelomys_sevia,4264979,NA,NA,2,0,0
+Protochromys_fellowsi,4264835,NA,NA,0,0,NA
+Mallomys_istapantap,2439099,NA,NA,1,1,1
+Mallomys_rothschildi,2439100,NA,NA,1,0,0
+Mallomys_gunung,2439098,NA,NA,0,0,NA
+Mallomys_aroaensis,2439097,NA,NA,0,0,NA
+Mammelomys_rattoides,4264955,NA,NA,0,0,NA
+Mammelomys_lanosus,4264954,NA,NA,0,0,NA
+Sommeromys_macrorhinos,4264859,NA,NA,1,0,0
+Hadromys_yunnanensis,4264873,NA,NA,0,0,NA
+Hadromys_humei,2438368,NA,NA,0,0,NA
+Madromys_blanfordi,4264958,NA,NA,4,3,0.75
+Hyomys_goliath,2438543,NA,NA,0,0,NA
+Hyomys_dammermani,2438542,NA,NA,0,0,NA
+Pogonomys_loriae,2438510,NA,NA,2,2,1
+Pogonomys_fergussoniensis,4264814,NA,NA,0,0,NA
+Pogonomys_championi,2438512,NA,NA,0,0,NA
+Pogonomys_macrourus,2438513,NA,NA,39,34,0.8717948717948718
+Pogonomys_sylvestris,2438511,NA,NA,9,3,0.3333333333333333
+Macruromys_major,2439193,NA,NA,0,0,NA
+Macruromys_elegans,2439192,NA,NA,0,0,NA
+Chiruromys_vates,2438349,NA,NA,0,0,NA
+Chiruromys_lamia,2438347,NA,NA,0,0,NA
+Chiruromys_forbesi,2438348,NA,NA,0,0,NA
+Pithecheir_parvus,5219810,NA,NA,0,0,NA
+Pithecheir_melanurus,7530815,NA,NA,1,0,0
+Vernaya_fulva,2439129,NA,NA,4,1,0.25
+Vandeleuria_oleracea,2439081,NA,NA,28,26,0.9285714285714286
+Vandeleuria_nolthenii,2439080,NA,NA,0,0,NA
+Vandeleuria_nilagirica,4264971,NA,NA,8,8,1
+Lorentzimys_nouhuysi,2439302,NA,NA,18,1,0.05555555555555555
+Paraleptomys_wilhelmina,2439305,NA,NA,0,0,NA
+Paraleptomys_rufilatus,2439304,NA,NA,0,0,NA
+Chiropodomys_karlkoopmani,2438398,NA,NA,0,0,NA
+Chiropodomys_muroides,2438399,NA,NA,0,0,NA
+Chiropodomys_calamianensis,2438396,NA,NA,3,1,0.3333333333333333
+Chiropodomys_gliroides,2438400,NA,NA,64,30,0.46875
+Chiropodomys_pusillus,2438397,NA,NA,1,0,0
+Chiropodomys_major,2438395,NA,NA,7,4,0.5714285714285714
+Thamnomys_schoutedeni,5786731,NA,NA,0,0,NA
+Thamnomys_kempi,2438823,NA,NA,5,0,0
+Thamnomys_venustus,2438822,NA,NA,5,0,0
+Cremnomys_elvira,2438729,NA,NA,0,0,NA
+Cremnomys_cutchicus,2438730,NA,NA,3,3,1
+Millardia_kathleenae,5219780,NA,NA,0,0,NA
+Millardia_meltada,5219777,Not Synanthropic,NA,14,0,0
+Millardia_kondana,5219779,NA,NA,1,1,1
+Millardia_gleadowi,5219778,NA,NA,1,1,1
+Coccymys_kirrhos,8280801,NA,NA,0,0,NA
+Coccymys_ruemmleri,2438223,NA,NA,0,0,NA
+Nilopegamys_plumbeus,4264952,NA,NA,0,0,NA
+Golunda_ellioti,2438299,Not Synanthropic,NA,39,29,0.7435897435897436
+Oenomys_ornatus,2438922,NA,NA,0,0,NA
+Oenomys_hypoxanthus,2438923,NA,NA,79,9,0.11392405063291139
+Desmomys_yaldeni,4264901,NA,NA,0,0,NA
+Desmomys_harringtoni,2438879,NA,NA,2,0,0
+Mylomys_rex,4264956,NA,NA,0,0,NA
+Mylomys_dybowskii,2439321,NA,NA,2,0,0
+Pelomys_isseli,2438689,NA,NA,0,0,NA
+Pelomys_minor,2438688,NA,NA,26,0,0
+Pelomys_fallax,2438685,NA,NA,30,0,0
+Pelomys_campanae,2438687,NA,NA,2,0,0
+Pelomys_hopkinsi,2438686,NA,NA,8,0,0
+Lemniscomys_striatus,2438204,Not Synanthropic,TRUE,639,47,0.07355242566510173
+Lemniscomys_barbarus,2438207,NA,NA,41,18,0.43902439024390244
+Lemniscomys_macculus,2438209,NA,NA,2,2,1
+Lemniscomys_bellieri,2438203,NA,NA,70,0,0
+Lemniscomys_roseveari,2438208,NA,NA,0,0,NA
+Lemniscomys_rosalia,2438201,Not Synanthropic,TRUE,125,67,0.536
+Lemniscomys_griselda,2438200,NA,NA,1,0,0
+Lemniscomys_zebra,4264938,Not Synanthropic,NA,319,9,0.02821316614420063
+Lemniscomys_hoogstraali,2438206,NA,NA,0,0,NA
+Lemniscomys_mittendorfi,2438205,NA,NA,1,0,0
+Lemniscomys_linulus,2438202,NA,NA,51,0,0
+Arvicanthis_nairobae,2438916,Occasionally Synanthropic,NA,7,6,0.8571428571428571
+Arvicanthis_ansorgei,4264809,NA,NA,89,0,0
+Arvicanthis_blicki,2438918,NA,NA,32,32,1
+Arvicanthis_rufinus,4264810,NA,NA,75,0,0
+Arvicanthis_neumanni,2438917,Occasionally Synanthropic,NA,30,2,0.06666666666666667
+Arvicanthis_abyssinicus,2438915,NA,NA,101,9,0.0891089108910891
+Arvicanthis_niloticus,9733997,Occasionally Synanthropic,TRUE,920,190,0.20652173913043478
+Coryphomys_buehleri,2439042,NA,NA,0,0,NA
+Lamottemys_okuensis,2438345,NA,NA,44,0,0
+Abditomys_latidens,2438327,NA,NA,0,0,NA
+Rhabdomys_pumilio,2438736,Occasionally Synanthropic,TRUE,2046,1704,0.8328445747800587
+Echiothrix_leucura,2438047,NA,NA,3,0,0
+Echiothrix_centrosa,4264820,NA,NA,0,0,NA
+Dasymys_rufulus,2438419,NA,NA,33,0,0
+Dasymys_montanus,2438418,NA,NA,0,0,NA
+Dasymys_foxi,2438417,NA,NA,0,0,NA
+Dasymys_incomtus,2438420,NA,NA,35,1,0.02857142857142857
+Dasymys_nudipes,2438416,NA,NA,0,0,NA
+Aethomys_nyikae,2438168,NA,NA,11,0,0
+Aethomys_kaiseri,2438175,NA,TRUE,38,0,0
+Aethomys_ineptus,4264924,Not Synanthropic,TRUE,17,9,0.5294117647058824
+Aethomys_chrysophilus,2438176,Not Synanthropic,TRUE,153,12,0.0784313725490196
+Dephomys_defua,2437937,NA,NA,98,0,0
+Aethomys_bocagei,2438170,NA,NA,0,0,NA
+Aethomys_thomasi,2438174,NA,NA,5,0,0
+Aethomys_hindei,2438169,Not Synanthropic,NA,53,0,0
+Aethomys_silindensis,2438171,NA,NA,0,0,NA
+Aethomys_stannarius,2438167,NA,NA,5,0,0
+Grammomys_macmillani,2439197,NA,NA,103,0,0
+Grammomys_buntingi,2439196,NA,NA,27,0,0
+Grammomys_gigas,2439205,NA,NA,2,0,0
+Grammomys_cometes,2439195,NA,NA,2,1,0.5
+Grammomys_caniceps,2439203,NA,NA,0,0,NA
+Grammomys_kuru,4264883,NA,NA,10,0,0
+Grammomys_minnae,2439204,NA,NA,0,0,NA
+Grammomys_aridulus,2439199,NA,NA,3,0,0
+Grammomys_ibeanus,2439201,NA,NA,241,3,0.012448132780082987
+Grammomys_dolichurus,2439202,Not Synanthropic,TRUE,246,22,0.08943089430894309
+Grammomys_dryas,2439198,NA,NA,7,0,0
+Grammomys_selousi,10788858,NA,NA,0,0,NA
+Thallomys_paedulcus,2437942,NA,NA,62,37,0.5967741935483871
+Thallomys_shortridgei,2437940,NA,NA,0,0,NA
+Thallomys_nigricauda,2437943,NA,NA,55,43,0.7818181818181819
+Thallomys_loringi,2437941,NA,NA,1,1,1
+Microhydromys_richardsoni,2438423,NA,NA,0,0,NA
+Microhydromys_argenteus,7704816,NA,NA,0,0,NA
+Stochomys_longicaudatus,2438508,NA,NA,28,1,0.03571428571428571
+Tateomys_rhinogradoides,2438701,NA,NA,6,0,0
+Tateomys_macrocercus,2438702,NA,NA,2,0,0
+Hybomys_univittatus,2439071,Not Synanthropic,NA,537,4,0.0074487895716946
+Hybomys_trivirgatus,2439069,NA,NA,111,0,0
+Hybomys_planifrons,2439072,NA,NA,87,0,0
+Hybomys_badius,4264897,NA,NA,5,0,0
+Hybomys_basilii,2439073,NA,NA,61,0,0
+Hybomys_lunaris,2439074,NA,NA,196,0,0
+Palawanomys_furvus,2438861,NA,NA,29,0,0
+Hapalomys_longicaudatus,2438766,NA,NA,1,0,0
+Hapalomys_delacouri,2438767,NA,NA,1,0,0
+Paulamys_naso,2438571,NA,NA,0,0,NA
+Otomys_uzungwensis,5706742,NA,NA,0,0,NA
+Parotomys_brantsii,2438856,NA,NA,110,78,0.7090909090909091
+Otomys_lacustris,5706745,NA,NA,7,0,0
+Otomys_anchietae,5219868,NA,NA,1,0,0
+Otomys_denti,5219865,NA,NA,22,0,0
+Otomys_thomasi,7894636,NA,NA,0,0,NA
+Otomys_angoniensis,5219872,NA,NA,36,6,0.16666666666666666
+Otomys_occidentalis,5219870,NA,NA,39,0,0
+Otomys_burtoni,5706740,NA,NA,0,0,NA
+Otomys_dartmouthi,5706738,NA,NA,0,0,NA
+Otomys_yaldeni,8091658,NA,NA,3,0,0
+Otomys_zinki,8381122,NA,NA,7,7,1
+Otomys_cuanzensis,5706743,NA,NA,0,0,NA
+Otomys_simiensis,8039608,NA,NA,17,0,0
+Otomys_orestes,5706739,NA,NA,7,4,0.5714285714285714
+Otomys_jacksoni,5706741,NA,NA,5,0,0
+Otomys_cheesmani,7548780,NA,NA,2,0,0
+Otomys_tropicalis,5219867,NA,NA,81,0,0
+Otomys_barbouri,5706737,NA,NA,3,0,0
+Otomys_helleri,7417024,NA,NA,17,3,0.17647058823529413
+Otomys_typus,5219871,NA,NA,50,0,0
+Otomys_fortior,8369739,NA,NA,7,0,0
+Otomys_irroratus,5219869,NA,FALSE,356,307,0.8623595505617978
+Otomys_laminatus,5219873,NA,NA,0,0,NA
+Parotomys_littledalei,2438855,NA,NA,13,8,0.6153846153846154
+Nesoromys_ceramicus,4264808,NA,NA,0,0,NA
+Mus_caroli,2438800,NA,NA,81,6,0.07407407407407407
+Mus_cookii,2438802,NA,NA,14,4,0.2857142857142857
+Mus_cervicolor,2438776,NA,NA,12,2,0.16666666666666666
+Mus_spicilegus,2438805,Occasionally Synanthropic,NA,302,217,0.7185430463576159
+Mus_macedonicus,2438783,Not Synanthropic,NA,145,5,0.034482758620689655
+Mus_mayori,2438809,NA,NA,0,0,NA
+Mus_cypriacus,5786703,NA,NA,0,0,NA
+Mus_musculus,7429082,Totally Synanthropic,TRUE,123595,7991,0.06465471904203245
+Mus_spretus,2438793,Occasionally Synanthropic,TRUE,5456,70,0.012829912023460411
+Mus_fragilicauda,4264887,NA,NA,0,0,NA
+Mus_setzeri,2438803,NA,NA,0,0,NA
+Mus_baoulei,2438811,NA,NA,273,0,0
+Mus_booduga,2438798,NA,NA,19,14,0.7368421052631579
+Mus_famulus,2438778,NA,NA,1,1,1
+Mus_phillipsi,2438799,NA,NA,0,0,NA
+Mus_terricolor,2438807,NA,NA,1,0,0
+Mus_saxicola,2438789,NA,NA,1,0,0
+Mus_platythrix,2438801,NA,NA,1,1,1
+Muriculus_imberbis,2438063,NA,NA,4,0,0
+Mus_callewaerti,2438775,NA,NA,0,0,NA
+Mus_triton,2438784,Not Synanthropic,TRUE,616,0,0
+Mus_shortridgei,2438791,NA,NA,0,0,NA
+Mus_mahomet,2438795,NA,TRUE,17,0,0
+Mus_setulosus,2438777,Occasionally Synanthropic,TRUE,269,0,0
+Mus_bufo,2438788,NA,NA,98,0,0
+Mus_haussa,2438781,NA,NA,10,0,0
+Mus_mattheyi,2438785,Occasionally Synanthropic,TRUE,98,0,0
+Mus_indutus,2438806,Not Synanthropic,NA,27,15,0.5555555555555556
+Mus_musculoides,2438786,NA,NA,440,1,0.0022727272727272726
+Mus_tenellus,2438782,NA,NA,10,1,0.1
+Mus_minutoides,2438796,Occasionally Synanthropic,TRUE,1156,141,0.12197231833910034
+Mus_oubanguii,2438787,NA,NA,0,0,NA
+Mus_fernandoni,2438804,NA,NA,0,0,NA
+Mus_goundae,2438792,NA,NA,0,0,NA
+Mus_vulcani,2438808,NA,NA,0,0,NA
+Mus_sorella,2438779,NA,NA,6,0,0
+Mus_neavei,2438810,NA,NA,2,0,0
+Mus_pahari,2438812,NA,NA,15,3,0.2
+Mus_crociduroides,2438790,NA,NA,0,0,NA
+Praomys_mutoni,2438476,NA,NA,11,0,0
+Praomys_jacksoni,2438475,NA,NA,2190,0,0
+Praomys_minor,2438471,NA,NA,41,0,0
+Praomys_degraaffi,4264876,NA,NA,166,0,0
+Praomys_tullbergi,2438479,Not Synanthropic,NA,276,1,0.0036231884057971015
+Praomys_misonnei,2438477,Not Synanthropic,TRUE,1532,0,0
+Praomys_obscurus,4264877,NA,NA,0,0,NA
+Praomys_hartwigi,2438478,NA,NA,72,0,0
+Praomys_petteri,4264881,NA,NA,107,0,0
+Praomys_coetzeei,9218659,NA,NA,0,0,NA
+Praomys_morio,2438474,NA,NA,170,0,0
+Praomys_rostratus,2438473,Occasionally Synanthropic,TRUE,575,1,0.0017391304347826088
+Praomys_daltoni,4264878,Occasionally Synanthropic,TRUE,560,0,0
+Praomys_derooi,4264879,NA,NA,94,0,0
+Myomyscus_yemeni,4264893,NA,NA,5,0,0
+Stenocephalemys_albipes,4264996,NA,TRUE,30,0,0
+Stenocephalemys_griseicauda,2439017,NA,NA,0,0,NA
+Stenocephalemys_ruppi,4264995,NA,NA,0,0,NA
+Stenocephalemys_albocaudata,2439016,NA,NA,1,1,1
+Myomyscus_brockmani,4264892,NA,NA,27,0,0
+Myomyscus_angolensis,4264894,NA,NA,6,0,0
+Mastomys_kollmannspergeri,4264822,NA,NA,89,0,0
+Mastomys_awashensis,4264821,Not Synanthropic,NA,0,0,NA
+Mastomys_erythroleucus,2438912,Occasionally Synanthropic,TRUE,1318,0,0
+Mastomys_natalensis,2438911,Totally Synanthropic,TRUE,5280,16,0.0030303030303030303
+Mastomys_coucha,2438907,Not Synanthropic,NA,27,3,0.1111111111111111
+Mastomys_huberti,4264823,Occasionally Synanthropic,NA,165,0,0
+Praomys_lukolelae,4264880,NA,NA,3,0,0
+Praomys_verschureni,4264882,NA,NA,0,0,NA
+Colomys_goslingi,2439133,NA,NA,47,2,0.0425531914893617
+Zelotomys_woosnami,2438268,NA,NA,0,0,NA
+Zelotomys_hildegardeae,2438269,NA,NA,2,0,0
+Myomyscus_verreauxii,4264895,NA,NA,3,2,0.6666666666666666
+Mastomys_shortridgei,2438905,NA,NA,0,0,NA
+Hylomyscus_walterverheyeni,10048974,NA,NA,822,0,0
+Hylomyscus_stella,2439340,Not Synanthropic,NA,670,0,0
+Hylomyscus_pamfi,7943554,NA,NA,20,0,0
+Hylomyscus_alleni,2439341,NA,NA,534,1,0.0018726591760299626
+Hylomyscus_anselli,10822719,NA,NA,0,0,NA
+Hylomyscus_arcimontensis,8823131,NA,NA,242,0,0
+Hylomyscus_kerbispeterhansi,7676045,NA,NA,163,0,0
+Hylomyscus_parvus,2439335,NA,NA,23,0,0
+Hylomyscus_grandis,4264862,NA,NA,5,0,0
+Hylomyscus_aeta,2439337,NA,NA,87,0,0
+Hylomyscus_baeri,2439339,NA,NA,7,0,0
+Hylomyscus_denniae,2439338,NA,NA,168,1,0.005952380952380952
+Heimyscus_fumosus,2438925,Not Synanthropic,NA,210,0,0
+Hylomyscus_vulcanorum,10868226,NA,NA,118,0,0
+Hylomyscus_carillus,2439336,NA,NA,0,0,NA
+Mastomys_pernanus,2438908,NA,NA,3,0,0
+Praomys_delectorum,2438472,Not Synanthropic,TRUE,1618,0,0
+Tokudaia_tokunoshimensis,5786721,NA,NA,1,1,1
+Tokudaia_osimensis,2438055,NA,NA,8,8,1
+Tokudaia_muenninki,2438054,NA,NA,5,5,1
+Apodemus_peninsulae,5219734,Occasionally Synanthropic,NA,1307,35,0.026778882938026015
+Apodemus_hyrcanicus,5219733,NA,NA,0,0,NA
+Apodemus_agrarius,2437761,Occasionally Synanthropic,TRUE,12551,3534,0.28157118954664967
+Apodemus_chevrieri,5219743,Not Synanthropic,NA,11,1,0.09090909090909091
+Apodemus_latronum,5219739,NA,NA,29,0,0
+Apodemus_rusiges,5219735,NA,NA,1,1,1
+Apodemus_semotus,5219741,NA,NA,609,19,0.031198686371100164
+Apodemus_draco,5219737,Not Synanthropic,NA,172,0,0
+Apodemus_speciosus,5219745,Occasionally Synanthropic,NA,7989,26,0.0032544749029916136
+Apodemus_epimelas,4264851,NA,NA,9,2,0.2222222222222222
+Apodemus_mystacinus,2437773,Occasionally Synanthropic,NA,2804,11,0.0039229671897289585
+Apodemus_uralensis,2437775,Occasionally Synanthropic,TRUE,4261,168,0.03942736446843464
+Apodemus_pallipes,5706748,Not Synanthropic,NA,17,5,0.29411764705882354
+Apodemus_sylvaticus,2437760,Occasionally Synanthropic,TRUE,123679,3250,0.026277702762797242
+Apodemus_ponticus,5219740,Not Synanthropic,NA,64,1,0.015625
+Apodemus_flavicollis,2437756,Occasionally Synanthropic,TRUE,37942,1104,0.02909704285488377
+Apodemus_alpicola,2437769,NA,NA,1462,3,0.002051983584131327
+Apodemus_witherbyi,5706747,Occasionally Synanthropic,NA,114,7,0.06140350877192982
+Apodemus_gurkha,5219738,NA,NA,0,0,NA
+Apodemus_argenteus,5219736,Occasionally Synanthropic,NA,502,6,0.01195219123505976
+Malacomys_longipes,2439147,NA,NA,255,2,0.00784313725490196
+Malacomys_edwardsi,2439144,NA,TRUE,387,1,0.002583979328165375
+Malacomys_cansdalei,2439146,NA,NA,43,0,0
+Waiomys_mamasae,8102673,NA,NA,0,0,NA
+Tryphomys_adustus,2438378,NA,NA,0,0,NA
+Paucidentomys_vermidax,8304907,NA,NA,1,0,0
+Lenothrix_canus,2437947,NA,NA,3,1,0.3333333333333333
+Melasmothrix_naso,2438699,NA,NA,5,0,0
+Srilankamys_ohiensis,2438251,NA,NA,0,0,NA
+Berylmys_berdmorei,2438963,NA,NA,31,0,0
+Berylmys_bowersi,2438965,Not Synanthropic,NA,40,1,0.025
+Berylmys_mackenziei,2438964,NA,NA,0,0,NA
+Berylmys_manipulus,2438962,NA,NA,0,0,NA
+Rattus_vandeuseni,4264913,NA,NA,0,0,NA
+Rattus_omichlodes,4264917,NA,NA,0,0,NA
+Rattus_nativitatis,2439273,NA,NA,0,0,NA
+Rattus_palmarum,2439247,NA,NA,0,0,NA
+Rattus_mindorensis,2439269,NA,NA,111,0,0
+Bandicota_indica,2437729,Occasionally Synanthropic,NA,821,98,0.11936662606577345
+Sundamys_maxi,2438466,NA,NA,0,0,NA
+Sundamys_muelleri,2438465,Not Synanthropic,NA,111,5,0.04504504504504504
+Sundamys_infraluteus,2438464,NA,NA,7,1,0.14285714285714285
+Rattus_hoogerwerfi,2439254,NA,NA,0,0,NA
+Rattus_mordax,2439243,NA,NA,0,0,NA
+Rattus_pelurus,2439238,NA,NA,4,4,1
+Bullimus_luzonicus,2437853,NA,NA,275,0,0
+Bullimus_gamay,4264853,NA,NA,2,0,0
+Bullimus_bagobus,2437852,NA,NA,81,0,0
+Halmaheramys_bokimekot,7703233,NA,NA,0,0,NA
+Rattus_feliceus,2439251,NA,NA,0,0,NA
+Taeromys_microbullatus,4264819,NA,NA,0,0,NA
+Taeromys_callitrichus,2438557,NA,NA,1,0,0
+Taeromys_punicans,2438556,NA,NA,1,0,0
+Taeromys_taerae,2438554,NA,NA,18,0,0
+Taeromys_celebensis,2438555,NA,NA,0,0,NA
+Taeromys_arcuatus,2438553,NA,NA,0,0,NA
+Taeromys_hamatus,2438558,NA,NA,0,0,NA
+Paruromys_dominator,2438520,NA,NA,62,0,0
+Rattus_marmosurus,2439278,NA,NA,11,0,0
+Rattus_macleari,2439231,NA,NA,0,0,NA
+Bunomys_fratrorum,5219845,NA,NA,55,0,0
+Bunomys_penitus,5219847,NA,NA,73,0,0
+Bunomys_torajae,8120726,NA,NA,0,0,NA
+Bunomys_chrysocomus,5219843,NA,NA,31,0,0
+Bunomys_coelestis,5219848,NA,NA,58,0,0
+Bunomys_andrewsi,5219846,NA,NA,47,0,0
+Bunomys_karokophilus,8122502,NA,NA,0,0,NA
+Bunomys_prolatus,5219844,NA,NA,2,0,0
+Tarsomys_echinatus,2438755,NA,NA,1,0,0
+Tarsomys_apoensis,2438756,NA,NA,13,0,0
+Limnomys_sibuanus,5219731,NA,NA,8,0,0
+Limnomys_bryophilus,5706736,NA,NA,5,0,0
+Rattus_elaphinus,2439230,NA,NA,1,1,1
+Rattus_korinchi,2439228,NA,NA,1,0,0
+Rattus_stoicus,2439271,NA,NA,2,2,1
+Rattus_arrogans,4264912,NA,NA,0,0,NA
+Rattus_everetti,2439268,NA,NA,743,1,0.0013458950201884253
+Nesokia_indica,2438985,Occasionally Synanthropic,NA,77,1,0.012987012987012988
+Nesokia_bunnii,2438984,NA,NA,1,1,1
+Bandicota_savilei,2437728,Occasionally Synanthropic,NA,37,1,0.02702702702702703
+Bandicota_bengalensis,2437727,Totally Synanthropic,NA,60,23,0.38333333333333336
+Rattus_timorensis,2439245,NA,NA,0,0,NA
+Diplothrix_legata,5706746,Not Synanthropic,NA,126,44,0.3492063492063492
+Rattus_jobiensis,2439246,NA,NA,0,0,NA
+Rattus_bontanus,2439257,NA,NA,6,0,0
+Rattus_norvegicus,2439261,Totally Synanthropic,TRUE,233279,19500,0.08359089330801316
+Rattus_burrus,2439249,NA,NA,0,0,NA
+Rattus_nitidus,2439234,Occasionally Synanthropic,NA,46,4,0.08695652173913043
+Rattus_leucopus,2439266,Occasionally Synanthropic,NA,161,6,0.037267080745341616
+Rattus_verecundus,4264910,NA,NA,27,0,0
+Rattus_praetor,2439229,NA,NA,2,0,0
+Rattus_novaeguineae,2439264,NA,NA,0,0,NA
+Rattus_steini,2439279,NA,NA,4,0,0
+Rattus_giluwensis,2439224,NA,NA,54,0,0
+Rattus_niobe,4264915,NA,NA,106,0,0
+Rattus_morotaiensis,2439225,NA,NA,0,0,NA
+Rattus_tawitawiensis,2439253,NA,NA,0,0,NA
+Rattus_fuscipes,2439233,Not Synanthropic,FALSE,85647,1334,0.015575560148049552
+Rattus_tunneyi,2439226,Not Synanthropic,NA,4282,46,0.010742643624474545
+Rattus_lugens,2439250,NA,NA,1,1,1
+Rattus_lutreolus,2439240,Not Synanthropic,NA,6969,814,0.11680298464629071
+Rattus_adustus,2439236,NA,NA,1,1,1
+Rattus_villosissimus,2439256,Not Synanthropic,NA,2872,49,0.017061281337047353
+Rattus_sordidus,2439232,NA,NA,1399,9,0.006433166547533953
+Rattus_hainaldi,2439272,NA,NA,0,0,NA
+Rattus_blangorum,4264908,NA,NA,0,0,NA
+Rattus_pococki,4264909,NA,NA,0,0,NA
+Rattus_montanus,2439252,NA,NA,0,0,NA
+Rattus_xanthurus,2439248,NA,NA,18,2,0.1111111111111111
+Rattus_pyctoris,4264918,NA,NA,18,3,0.16666666666666666
+Rattus_andamanensis,4264920,NA,NA,384,31,0.08072916666666667
+Rattus_tanezumi,2439262,Occasionally Synanthropic,TRUE,1449,162,0.11180124223602485
+Rattus_enganus,2439277,NA,NA,0,0,NA
+Rattus_richardsoni,4264914,NA,NA,1,1,1
+Rattus_hoffmanni,9753266,NA,NA,86,1,0.011627906976744186
+Rattus_annandalei,2439227,NA,NA,2,2,1
+Rattus_nikenii,10899608,NA,NA,0,0,NA
+Rattus_ranjiniae,2439276,NA,NA,0,0,NA
+Rattus_argentiventer,2439275,Occasionally Synanthropic,NA,35,7,0.2
+Rattus_baluensis,2439265,NA,NA,38,3,0.07894736842105263
+Rattus_rattus,2439270,Totally Synanthropic,TRUE,92186,8923,0.09679343935087757
+Rattus_tiomanicus,2439235,Occasionally Synanthropic,NA,59,4,0.06779661016949153
+Rattus_colletti,2439239,Not Synanthropic,NA,238,1,0.004201680672268907
+Rattus_losea,2439258,Occasionally Synanthropic,NA,373,36,0.09651474530831099
+Rattus_koopmani,2439237,NA,NA,0,0,NA
+Rattus_exulans,2439244,Totally Synanthropic,NA,888,50,0.05630630630630631
+Rattus_salocco,4264911,NA,NA,1,1,1
+Rattus_mollicomulus,2439260,NA,NA,13,0,0
+Rattus_osgoodi,2439255,NA,NA,13,0,0
+Rattus_satarae,4264919,NA,NA,6,4,0.6666666666666666
+Rattus_simalurensis,2439241,NA,NA,0,0,NA
+Diomys_crumpi,2438814,NA,NA,0,0,NA
+Margaretamys_parvus,2438960,NA,NA,0,0,NA
+Margaretamys_beccarii,2438959,NA,NA,1,0,0
+Margaretamys_elegans,2438958,NA,NA,1,0,0
+Margaretamys_christinae,7561739,NA,NA,0,0,NA
+Leopoldamys_edwardsi,2437925,Not Synanthropic,NA,61,10,0.16393442622950818
+Leopoldamys_neilli,2437927,NA,NA,37,0,0
+Leopoldamys_milleti,4264875,NA,NA,4,0,0
+Leopoldamys_siporanus,2437924,NA,NA,3,3,1
+Leopoldamys_ciliatus,4264874,NA,NA,1,1,1
+Leopoldamys_sabanus,2437926,Not Synanthropic,NA,164,19,0.11585365853658537
+Xenuromys_barbatus,2439187,NA,NA,0,0,NA
+Dacnomys_millardi,2438329,NA,NA,10,0,0
+Niviventer_lepturus,2439051,NA,NA,7,2,0.2857142857142857
+Niviventer_fulvescens,2439050,Not Synanthropic,NA,195,28,0.14358974358974358
+Niviventer_cameroni,4264900,NA,NA,0,0,NA
+Niviventer_coninga,4264899,NA,NA,512,32,0.0625
+Niviventer_tenaster,2439052,NA,NA,169,2,0.011834319526627219
+Niviventer_brahma,2439053,NA,NA,0,0,NA
+Niviventer_eha,2439049,NA,NA,22,0,0
+Niviventer_confucianus,2439057,Occasionally Synanthropic,NA,217,8,0.03686635944700461
+Niviventer_culturatus,2439058,NA,NA,114,6,0.05263157894736842
+Niviventer_andersoni,2439047,NA,NA,21,0,0
+Niviventer_excelsior,2439059,NA,NA,27,0,0
+Niviventer_niviventer,2439056,Occasionally Synanthropic,NA,17,1,0.058823529411764705
+Niviventer_cremoriventer,2439054,Not Synanthropic,NA,76,7,0.09210526315789473
+Niviventer_fraternus,4264898,NA,NA,0,0,NA
+Niviventer_hinpoon,2439055,NA,NA,0,0,NA
+Niviventer_rapit,2439061,NA,NA,21,1,0.047619047619047616
+Chiromyscus_chiropus,2438462,NA,NA,16,0,0
+Tonkinomys_daovantieni,5786709,NA,NA,16,0,0
+Saxatilomys_paulinae,5786735,NA,NA,10,0,0
+Maxomys_ochraceiventer,2438846,Not Synanthropic,NA,1,0,0
+Maxomys_baeodon,2438839,Not Synanthropic,NA,0,0,NA
+Maxomys_hylomyoides,2438851,NA,NA,3,1,0.3333333333333333
+Maxomys_wattsi,2438848,NA,NA,5,0,0
+Maxomys_tajuddinii,10727712,NA,NA,2,0,0
+Maxomys_whiteheadi,2438838,Not Synanthropic,NA,26,0,0
+Maxomys_musschenbroekii,2438842,NA,NA,206,0,0
+Crunomys_fallax,2438562,NA,NA,0,0,NA
+Crunomys_melanius,2438560,NA,NA,9,0,0
+Crunomys_suncoides,4264833,NA,NA,2,0,0
+Crunomys_celebensis,2438561,NA,NA,4,0,0
+Maxomys_dollmani,2438850,NA,NA,4,0,0
+Maxomys_hellwaldii,2438840,NA,NA,36,2,0.05555555555555555
+Maxomys_inas,2438841,NA,NA,0,0,NA
+Maxomys_panglima,2438843,NA,NA,25,0,0
+Maxomys_alticola,2438849,NA,NA,0,0,NA
+Maxomys_rajah,2438847,Not Synanthropic,NA,9,4,0.4444444444444444
+Maxomys_pagensis,2438853,NA,NA,0,0,NA
+Maxomys_bartelsii,2438844,NA,NA,21,0,0
+Maxomys_moi,2438852,NA,NA,30,0,0
+Maxomys_inflatus,2438845,NA,NA,0,0,NA
+Maxomys_surifer,2438837,Not Synanthropic,TRUE,362,19,0.052486187845303865
+Mirzamys_norahae,8073928,NA,NA,0,0,NA
+Mirzamys_louiseae,7493799,NA,NA,0,0,NA
+Micromys_minutus,5219833,Occasionally Synanthropic,TRUE,27218,851,0.03126607392166948
+Komodomys_rintjanus,2438460,NA,NA,4,4,1
+Calomyscus_elburzensis,4264682,NA,NA,0,0,NA
+Calomyscus_grandis,4264683,NA,NA,0,0,NA
+Calomyscus_bailwardi,2439355,NA,NA,1,0,0
+Calomyscus_urartensis,2439354,NA,NA,3,0,0
+Calomyscus_baluchi,2439353,NA,NA,59,0,0
+Calomyscus_mystax,2439352,NA,NA,0,0,NA
+Calomyscus_tsolovi,2439356,NA,NA,0,0,NA
+Calomyscus_hotsoni,2439351,NA,NA,0,0,NA
+Prometheomys_schaposchnikowi,2438887,NA,NA,10,6,0.6
+Dicrostonyx_nunatakensis,2438387,NA,NA,3,0,0
+Dicrostonyx_torquatus,2438384,Not Synanthropic,NA,37,18,0.4864864864864865
+Dicrostonyx_nelsoni,2438390,NA,NA,0,0,NA
+Dicrostonyx_unalascensis,2438385,NA,NA,0,0,NA
+Dicrostonyx_hudsonius,2438389,NA,NA,7,6,0.8571428571428571
+Dicrostonyx_richardsoni,2438386,Not Synanthropic,NA,7,4,0.5714285714285714
+Dicrostonyx_groenlandicus,2438391,Not Synanthropic,NA,462,113,0.24458874458874458
+Dicrostonyx_vinogradovi,2438388,NA,NA,13,0,0
+Phenacomys_ungava,2438113,NA,NA,26,4,0.15384615384615385
+Phenacomys_intermedius,2438114,NA,NA,355,4,0.011267605633802818
+Arborimus_pomo,2437932,NA,NA,23,23,1
+Arborimus_longicaudus,2437931,NA,NA,17,15,0.8823529411764706
+Arborimus_albipes,2437933,NA,NA,4,2,0.5
+Ondatra_zibethicus,5219858,Occasionally Synanthropic,TRUE,1304956,42128,0.03228308080885486
+Neofiber_alleni,2438050,NA,NA,36,30,0.8333333333333334
+Myopus_schisticolor,2439358,Occasionally Synanthropic,NA,1779,10,0.005621135469364812
+Lemmus_sibiricus,5219835,Not Synanthropic,NA,37,34,0.918918918918919
+Lemmus_amurensis,5219839,NA,NA,0,0,NA
+Lemmus_lemmus,5219840,Not Synanthropic,NA,78790,181,0.00229724584338114
+Lemmus_trimucronatus,5219836,Not Synanthropic,NA,1073,106,0.09878844361602983
+Lemmus_portenkoi,5706758,NA,NA,13,0,0
+Synaptomys_borealis,2438953,NA,NA,597,2,0.0033500837520938024
+Synaptomys_cooperi,2438954,NA,NA,186,36,0.1935483870967742
+Ellobius_talpinus,2438760,Not Synanthropic,NA,166,93,0.5602409638554217
+Ellobius_tancrei,2438758,Not Synanthropic,NA,240,32,0.13333333333333333
+Ellobius_alaicus,2438761,NA,NA,0,0,NA
+Ellobius_lutescens,2438762,NA,NA,0,0,NA
+Ellobius_fuscocapillus,2438759,NA,NA,0,0,NA
+Chionomys_nivalis,2438162,Not Synanthropic,NA,2926,98,0.03349282296650718
+Chionomys_roberti,2438161,Not Synanthropic,NA,7,0,0
+Chionomys_gud,2438160,NA,NA,10,0,0
+Proedromys_bedfordi,2438899,NA,NA,0,0,NA
+Microtus_evoronensis,2438610,NA,NA,0,0,NA
+Volemys_musseri,2438236,NA,NA,0,0,NA
+Proedromys_liangshanensis,5786908,NA,NA,0,0,NA
+Microtus_agrestis,2438616,Occasionally Synanthropic,TRUE,30311,800,0.026393058625581473
+Neodon_forresti,5706757,NA,NA,2,0,0
+Blanfordimys_bucharensis,4265107,NA,NA,0,0,NA
+Blanfordimys_afghanus,2439282,NA,NA,0,0,NA
+Microtus_schelkovnikovi,2438608,NA,NA,0,0,NA
+Microtus_anatolicus,4265014,NA,NA,0,0,NA
+Microtus_irani,2438601,NA,NA,23,0,0
+Microtus_schidlovskii,4265017,NA,NA,6,0,0
+Microtus_socialis,2438670,Not Synanthropic,NA,110,22,0.2
+Microtus_guentheri,2438628,Not Synanthropic,NA,164,16,0.0975609756097561
+Microtus_dogramacii,4265011,NA,NA,0,0,NA
+Microtus_paradoxus,4265015,NA,NA,0,0,NA
+Microtus_ilaeus,4265012,Not Synanthropic,NA,25,1,0.04
+Microtus_levis,4265013,Not Synanthropic,NA,425,8,0.018823529411764704
+Microtus_gregalis,2438648,Not Synanthropic,NA,494,0,0
+Microtus_arvalis,2438606,Occasionally Synanthropic,TRUE,37101,400,0.010781380555780167
+Microtus_transcaspicus,2438611,Occasionally Synanthropic,NA,0,0,NA
+Microtus_subterraneus,2438660,Occasionally Synanthropic,NA,2190,21,0.009589041095890411
+Microtus_daghestanicus,2438633,NA,NA,28,2,0.07142857142857142
+Microtus_majori,2438654,NA,NA,52,0,0
+Microtus_savii,2438650,Not Synanthropic,NA,38,15,0.39473684210526316
+Microtus_duodecimcostatus,2438619,Not Synanthropic,NA,3745,30,0.00801068090787717
+Microtus_lusitanicus,2438669,Not Synanthropic,NA,2209,25,0.011317338162064282
+Microtus_tatricus,2438637,Not Synanthropic,NA,12,0,0
+Microtus_multiplex,2438647,NA,NA,250,5,0.02
+Microtus_liechtensteini,4265021,NA,NA,0,0,NA
+Microtus_bavaricus,2438594,NA,NA,1,0,0
+Microtus_thomasi,2438625,NA,NA,0,0,NA
+Microtus_felteni,2438597,NA,NA,0,0,NA
+Microtus_gerbei,2438662,NA,NA,1195,3,0.002510460251046025
+Microtus_cabrerae,2438668,Not Synanthropic,NA,3337,4,0.001198681450404555
+Microtus_ochrogaster,2438671,Not Synanthropic,TRUE,2248,72,0.03202846975088968
+Microtus_californicus,2438603,Occasionally Synanthropic,NA,2828,1539,0.5442008486562943
+Microtus_xanthognathus,2438664,NA,NA,1766,1,5.662514156285391e-4
+Microtus_umbrosus,2438599,NA,NA,5,0,0
+Microtus_chrotorrhinus,2438667,NA,NA,59,4,0.06779661016949153
+Microtus_guatemalensis,2438646,NA,NA,79,1,0.012658227848101266
+Microtus_oaxacensis,2438614,NA,NA,13,0,0
+Microtus_pinetorum,2438638,NA,NA,1261,489,0.3877874702616971
+Microtus_quasiater,2438592,NA,NA,8,4,0.5
+Microtus_qazvinensis,4265016,NA,NA,6,0,0
+Microtus_richardsoni,2438626,NA,NA,239,3,0.012552301255230125
+Microtus_pennsylvanicus,2438655,Occasionally Synanthropic,NA,26773,3578,0.13364210211780525
+Microtus_montanus,2438609,Not Synanthropic,NA,2520,60,0.023809523809523808
+Microtus_townsendii,2438612,NA,NA,364,265,0.728021978021978
+Microtus_canicaudus,2438593,NA,NA,18,14,0.7777777777777778
+Microtus_longicaudus,2438621,Not Synanthropic,NA,4725,24,0.005079365079365079
+Microtus_oregoni,2438661,NA,NA,881,32,0.036322360953461974
+Microtus_miurus,2438632,NA,NA,308,1,0.003246753246753247
+Microtus_brachycercus,4265022,NA,NA,3,3,1
+Microtus_abbreviatus,2438630,NA,NA,1425,5,0.0035087719298245615
+Microtus_montebelli,2438676,Not Synanthropic,NA,351,0,0
+Microtus_kikuchii,4265019,NA,NA,95,7,0.07368421052631578
+Microtus_mexicanus,2438651,NA,NA,673,63,0.09361069836552749
+Microtus_oeconomus,2438635,Not Synanthropic,TRUE,9201,128,0.013911531355287469
+Microtus_maximowiczii,2438634,Occasionally Synanthropic,NA,173,2,0.011560693641618497
+Microtus_sachalinensis,2438618,NA,NA,0,0,NA
+Microtus_mongolicus,2438598,NA,NA,121,0,0
+Microtus_limnophilus,2438595,NA,NA,224,0,0
+Microtus_fortis,2438675,Occasionally Synanthropic,NA,234,7,0.029914529914529916
+Microtus_mujanensis,2438663,NA,NA,0,0,NA
+Microtus_breweri,2438615,Not Synanthropic,NA,10,0,0
+Neodon_linzhiensis,7722996,NA,NA,0,0,NA
+Neodon_sikimensis,8085701,NA,NA,1,1,1
+Neodon_irene,5706755,NA,NA,39,0,0
+Microtus_clarkei,4265018,NA,NA,0,0,NA
+Volemys_millicens,2438237,NA,NA,0,0,NA
+Neodon_leucurus,7775197,NA,NA,43,12,0.27906976744186046
+Neodon_fuscus,7467122,NA,NA,5,3,0.6
+Lasiopodomys_mandarinus,2438404,NA,NA,10,3,0.3
+Lasiopodomys_brandtii,2438403,Not Synanthropic,NA,212,37,0.17452830188679244
+Arvicola_sapidus,2438492,Not Synanthropic,NA,13111,133,0.01014415376401495
+Arvicola_scherman,4265186,NA,NA,4533,0,0
+Arvicola_amphibius,4265185,Occasionally Synanthropic,NA,93375,1004,0.010752342704149933
+Dinaromys_bogdanovi,2438502,NA,NA,19,1,0.05263157894736842
+Eolagurus_przewalskii,2438164,NA,NA,6,0,0
+Eolagurus_luteus,2438165,NA,NA,79,0,0
+Lagurus_lagurus,2439131,Not Synanthropic,NA,18,6,0.3333333333333333
+Lemmiscus_curtatus,2438225,NA,NA,8674,32,0.0036891860733225734
+Hyperacrius_wynnei,2438380,NA,NA,0,0,NA
+Hyperacrius_fertilis,2438381,NA,NA,5,0,0
+Caryomys_inez,4265054,NA,NA,0,0,NA
+Caryomys_eva,4265055,NA,NA,12,0,0
+Eothenomys_proditor,2438896,NA,NA,0,0,NA
+Eothenomys_olitor,2438890,NA,NA,0,0,NA
+Eothenomys_wardi,4265025,NA,NA,0,0,NA
+Eothenomys_custos,2438895,NA,NA,0,0,NA
+Eothenomys_chinensis,2438892,NA,NA,10,0,0
+Eothenomys_miletus,4265026,NA,NA,16,0,0
+Eothenomys_melanogaster,2438894,Occasionally Synanthropic,NA,108,3,0.027777777777777776
+Eothenomys_cachinus,4265027,NA,NA,0,0,NA
+Alticola_stoliczkanus,2438722,NA,NA,11,6,0.5454545454545454
+Myodes_californicus,5706763,NA,NA,98,12,0.12244897959183673
+Myodes_rutilus,5706762,Occasionally Synanthropic,NA,23351,395,0.016915763778853152
+Myodes_glareolus,5706764,Occasionally Synanthropic,TRUE,108033,4523,0.041866836984995326
+Alticola_macrotis,2438717,NA,NA,10,0,0
+Alticola_lemminus,2438713,NA,NA,65,0,0
+Alticola_albicaudus,4265078,NA,NA,0,0,NA
+Alticola_argentatus,2438712,NA,NA,25,3,0.12
+Alticola_montosa,2438721,NA,NA,0,0,NA
+Alticola_barakshin,2438716,NA,NA,329,10,0.030395136778115502
+Myodes_shanseius,5706766,NA,NA,0,0,NA
+Alticola_semicanus,2438718,NA,NA,132,6,0.045454545454545456
+Alticola_strelzowi,2438719,NA,NA,217,0,0
+Alticola_olchonensis,4265079,NA,NA,0,0,NA
+Alticola_tuvinicus,2438723,NA,NA,1,1,1
+Alticola_roylei,2438714,NA,NA,0,0,NA
+Myodes_gapperi,5706760,Occasionally Synanthropic,NA,9948,815,0.08192601527945316
+Myodes_centralis,5706767,Not Synanthropic,NA,181,0,0
+Myodes_andersoni,5706759,NA,NA,0,0,NA
+Myodes_smithii,5706770,NA,NA,8,0,0
+Myodes_rex,5706765,NA,NA,5,1,0.2
+Myodes_rufocanus,5706769,Not Synanthropic,NA,3756,126,0.03354632587859425
+Myodes_regulus,5706761,Occasionally Synanthropic,NA,166,23,0.13855421686746988
+Cansumys_canus,2439293,NA,NA,1,0,0
+Mesocricetus_newtoni,2438483,NA,NA,19,8,0.42105263157894735
+Mesocricetus_brandti,2438484,Not Synanthropic,NA,34,0,0
+Mesocricetus_raddei,2438481,NA,NA,0,0,NA
+Mesocricetus_auratus,2438482,Occasionally Synanthropic,NA,17,5,0.29411764705882354
+Cricetulus_barabensis,2438773,Occasionally Synanthropic,NA,426,11,0.025821596244131457
+Cricetulus_longicaudatus,2438769,NA,NA,358,2,0.00558659217877095
+Cricetulus_migratorius,2438772,Occasionally Synanthropic,NA,732,0,0
+Cricetulus_tibetanus,5786839,NA,NA,0,0,NA
+Cricetulus_alticola,2438770,NA,NA,0,0,NA
+Tscherskia_triton,2438828,Occasionally Synanthropic,NA,74,4,0.05405405405405406
+Cricetulus_sokolovi,2438774,NA,NA,0,0,NA
+Allocricetulus_eversmanni,2439190,Not Synanthropic,NA,1,1,1
+Allocricetulus_curtatus,2439189,NA,NA,21,2,0.09523809523809523
+Cricetus_cricetus,2438704,Occasionally Synanthropic,TRUE,5674,1211,0.21342967923863235
+Cricetulus_kamensis,2438771,NA,NA,46,0,0
+Phodopus_roborovskii,2437846,Not Synanthropic,FALSE,277,18,0.06498194945848375
+Phodopus_sungorus,2437845,Occasionally Synanthropic,NA,8,6,0.75
+Phodopus_campbelli,2437847,Occasionally Synanthropic,NA,146,5,0.03424657534246575
+Neotoma_macrotis,4265036,Occasionally Synanthropic,NA,826,282,0.3414043583535109
+Neotoma_fuscipes,2438455,Occasionally Synanthropic,TRUE,1956,1702,0.8701431492842536
+Neotoma_mexicana,2438447,Not Synanthropic,TRUE,1670,65,0.038922155688622756
+Neotoma_nelsoni,2438442,NA,NA,0,0,NA
+Neotoma_micropus,2438439,Not Synanthropic,TRUE,785,78,0.09936305732484077
+Neotoma_chrysomelas,2438441,NA,NA,0,0,NA
+Neotoma_leucodon,4265037,NA,NA,715,30,0.04195804195804196
+Neotoma_albigula,2438454,Occasionally Synanthropic,TRUE,2855,347,0.12154115586690017
+Neotoma_angustapalata,2438450,NA,NA,0,0,NA
+Neotoma_goldmani,2438452,NA,NA,37,4,0.10810810810810811
+Neotoma_magister,2438458,Not Synanthropic,NA,64,49,0.765625
+Neotoma_floridana,2438444,Occasionally Synanthropic,NA,2575,378,0.14679611650485436
+Neotoma_palatina,2438453,NA,NA,2,0,0
+Neotoma_stephensi,2438448,NA,NA,81,4,0.04938271604938271
+Neotoma_cinerea,2438437,Occasionally Synanthropic,NA,1261,679,0.5384615384615384
+Neotoma_phenax,2438436,NA,NA,19,2,0.10526315789473684
+Neotoma_bryanti,2438451,NA,NA,894,164,0.18344519015659955
+Neotoma_devia,2438449,NA,NA,121,2,0.01652892561983471
+Neotoma_lepida,2438438,Occasionally Synanthropic,NA,3253,255,0.07838917921918229
+Hodomys_alleni,2437929,NA,NA,47,6,0.1276595744680851
+Xenomys_nelsoni,2437945,NA,NA,13,3,0.23076923076923078
+Nelsonia_neotomodon,5219812,NA,NA,6,0,0
+Nelsonia_goldmani,5219813,NA,NA,7,0,0
+Ochrotomys_nuttalli,2438565,NA,TRUE,489,84,0.17177914110429449
+Reithrodontomys_rodriguezi,2437857,NA,NA,1,1,1
+Reithrodontomys_fulvescens,2437864,Not Synanthropic,TRUE,1946,58,0.029804727646454265
+Reithrodontomys_montanus,2437866,Not Synanthropic,NA,517,20,0.03868471953578337
+Reithrodontomys_raviventris,2437867,NA,NA,31,26,0.8387096774193549
+Reithrodontomys_humulis,2437865,NA,NA,342,25,0.07309941520467836
+Reithrodontomys_chrysopsis,2437869,NA,NA,52,2,0.038461538461538464
+Reithrodontomys_megalotis,2437874,Occasionally Synanthropic,TRUE,5097,333,0.06533254855797528
+Reithrodontomys_paradoxus,2437861,NA,NA,0,0,NA
+Reithrodontomys_sumichrasti,2437872,Not Synanthropic,NA,929,4,0.004305705059203444
+Reithrodontomys_zacatecae,2437873,NA,NA,113,5,0.04424778761061947
+Reithrodontomys_hirsutus,2437860,NA,NA,3,0,0
+Reithrodontomys_creper,2437859,Not Synanthropic,NA,141,3,0.02127659574468085
+Reithrodontomys_darienensis,2437870,NA,NA,3,1,0.3333333333333333
+Reithrodontomys_burti,2437858,NA,NA,0,0,NA
+Reithrodontomys_mexicanus,2437871,Not Synanthropic,NA,1228,5,0.004071661237785016
+Reithrodontomys_brevirostris,2437868,NA,NA,6,3,0.5
+Reithrodontomys_spectabilis,2437862,NA,NA,0,0,NA
+Reithrodontomys_musseri,7394396,NA,NA,0,0,NA
+Reithrodontomys_gracilis,2437855,NA,NA,80,14,0.175
+Reithrodontomys_microdon,2437856,NA,NA,214,1,0.004672897196261682
+Reithrodontomys_bakeri,5786875,NA,NA,1,0,0
+Reithrodontomys_tenuirostris,2437863,NA,NA,87,0,0
+Isthmomys_pirrensis,2438967,NA,NA,0,0,NA
+Isthmomys_flavidus,2438968,NA,NA,0,0,NA
+Onychomys_torridus,2438516,Not Synanthropic,NA,1110,28,0.025225225225225224
+Onychomys_leucogaster,2438517,Not Synanthropic,TRUE,5657,47,0.008308290613399329
+Onychomys_arenicola,2438515,NA,NA,272,13,0.04779411764705882
+Peromyscus_californicus,2438028,Not Synanthropic,NA,337,83,0.24629080118694363
+Peromyscus_eremicus,2437981,Occasionally Synanthropic,NA,3967,137,0.03453491303251827
+Peromyscus_fraterculus,4265103,NA,NA,213,61,0.2863849765258216
+Osgoodomys_banderanus,2439323,NA,NA,539,10,0.01855287569573284
+Peromyscus_melanurus,2437964,NA,NA,114,0,0
+Peromyscus_maniculatus,2437967,Occasionally Synanthropic,TRUE,120692,3985,0.03301792993736122
+Peromyscus_keeni,2437973,NA,NA,5823,40,0.006869311351537008
+Peromyscus_polionotus,2437996,NA,NA,1566,25,0.015964240102171137
+Peromyscus_melanotis,2437974,Not Synanthropic,NA,877,31,0.03534777651083238
+Peromyscus_leucopus,2438019,Occasionally Synanthropic,TRUE,48523,2991,0.061640871339364835
+Peromyscus_gossypinus,2437988,Occasionally Synanthropic,NA,7076,155,0.02190503109101187
+Peromyscus_hooperi,2438027,NA,NA,35,0,0
+Podomys_floridanus,2438245,NA,NA,1111,47,0.0423042304230423
+Peromyscus_guardia,2437986,NA,NA,0,0,NA
+Neotomodon_alstoni,2439083,NA,NA,248,5,0.020161290322580645
+Peromyscus_polius,2437969,NA,NA,5,0,0
+Habromys_delicatulus,4265158,NA,NA,0,0,NA
+Peromyscus_sagax,4265102,NA,NA,0,0,NA
+Habromys_simulatus,2438990,NA,NA,40,0,0
+Peromyscus_interparietalis,2438020,NA,NA,0,0,NA
+Habromys_chinanteco,2438988,NA,NA,3,0,0
+Habromys_ixtlani,4265159,NA,NA,29,0,0
+Habromys_lepturus,2438989,NA,NA,38,0,0
+Habromys_lophurus,2438987,NA,NA,69,0,0
+Habromys_schmidlyi,5786963,NA,NA,9,0,0
+Peromyscus_crinitus,2438021,NA,NA,1231,2,0.0016246953696181965
+Peromyscus_pectoralis,2438024,NA,NA,1717,14,0.008153756552125802
+Peromyscus_merriami,2438032,NA,NA,120,14,0.11666666666666667
+Peromyscus_beatae,4265104,Not Synanthropic,NA,725,7,0.009655172413793104
+Peromyscus_levipes,2437991,Occasionally Synanthropic,NA,1003,7,0.006979062811565304
+Peromyscus_schmidlyi,4828980,NA,NA,1500,3,0.002
+Peromyscus_aztecus,2438022,Not Synanthropic,NA,779,0,0
+Peromyscus_hylocetes,4265105,NA,NA,102,4,0.0392156862745098
+Peromyscus_winkelmanni,2437995,NA,NA,24,0,0
+Peromyscus_spicilegus,2437963,NA,NA,756,7,0.009259259259259259
+Peromyscus_bullatus,2437994,NA,NA,14,0,0
+Peromyscus_stephani,2438031,NA,NA,0,0,NA
+Peromyscus_simulus,2437966,NA,NA,112,15,0.13392857142857142
+Peromyscus_boylii,2438038,Occasionally Synanthropic,NA,7494,54,0.007205764611689352
+Peromyscus_madrensis,2437979,NA,NA,1,1,1
+Peromyscus_furvus,2438033,NA,NA,236,4,0.01694915254237288
+Peromyscus_caniceps,2437982,NA,NA,3,2,0.6666666666666666
+Peromyscus_attwateri,2437970,NA,NA,384,11,0.028645833333333332
+Peromyscus_mekisturus,2438030,NA,NA,1,0,0
+Peromyscus_eva,2437965,NA,NA,295,21,0.0711864406779661
+Peromyscus_nasutus,2437972,Not Synanthropic,NA,826,0,0
+Peromyscus_difficilis,2437993,NA,NA,2434,10,0.004108463434675432
+Peromyscus_ochraventer,2438026,NA,NA,32,3,0.09375
+Peromyscus_truei,2437985,Occasionally Synanthropic,TRUE,7589,74,0.009750955330083015
+Peromyscus_gratus,2437980,NA,NA,1215,13,0.010699588477366255
+Peromyscus_pseudocrinitus,2438037,NA,NA,17,0,0
+Peromyscus_sejugis,2437992,NA,NA,24,0,0
+Megadontomys_thomasi,2438695,Not Synanthropic,NA,94,0,0
+Megadontomys_nelsoni,2438697,NA,NA,25,1,0.04
+Megadontomys_cryophilus,2438696,NA,NA,41,0,0
+Peromyscus_mayensis,2437971,NA,NA,34,0,0
+Peromyscus_slevini,2438029,NA,NA,13,1,0.07692307692307693
+Peromyscus_yucatanicus,2437984,Occasionally Synanthropic,NA,185,22,0.11891891891891893
+Peromyscus_dickeyi,2437975,NA,NA,1,0,0
+Peromyscus_guatemalensis,2437968,NA,NA,657,0,0
+Peromyscus_grandis,2438025,NA,NA,273,1,0.003663003663003663
+Peromyscus_zarhynchus,2437977,NA,NA,534,2,0.003745318352059925
+Peromyscus_gymnotis,2438036,NA,NA,14,1,0.07142857142857142
+Peromyscus_mexicanus,2438034,Not Synanthropic,NA,860,21,0.02441860465116279
+Peromyscus_megalops,2437962,Not Synanthropic,NA,247,1,0.004048582995951417
+Peromyscus_pembertoni,2437987,NA,NA,0,0,NA
+Peromyscus_melanocarpus,2437983,NA,NA,197,0,0
+Peromyscus_melanophrys,2437976,NA,NA,221,4,0.01809954751131222
+Peromyscus_perfulvus,2437978,NA,NA,14,1,0.07142857142857142
+Peromyscus_stirtoni,2438023,NA,NA,9,0,0
+Scotinomys_xerampelinus,2439157,NA,NA,163,0,0
+Scotinomys_teguina,2439158,NA,NA,299,19,0.06354515050167224
+Baiomys_taylori,2438866,Not Synanthropic,TRUE,741,77,0.1039136302294197
+Baiomys_musculus,2438865,NA,TRUE,334,4,0.011976047904191617
+Tylomys_tumbalensis,2438538,NA,NA,0,0,NA
+Tylomys_nudicaudus,2438536,NA,NA,75,14,0.18666666666666668
+Tylomys_bullaris,2438537,NA,NA,0,0,NA
+Tylomys_panamensis,2438540,Not Synanthropic,NA,0,0,NA
+Tylomys_mirae,2438539,Not Synanthropic,NA,41,0,0
+Tylomys_watsoni,2438535,NA,NA,56,38,0.6785714285714286
+Tylomys_fulviventer,2438534,NA,NA,0,0,NA
+Ototylomys_phyllotis,2439155,Occasionally Synanthropic,TRUE,539,171,0.3172541743970315
+Otonyctomys_hatti,2438376,NA,NA,61,56,0.9180327868852459
+Nyctomys_sumichrasti,2438370,Occasionally Synanthropic,TRUE,258,150,0.5813953488372093
+Sigmodon_peruanus,2438154,NA,NA,10,8,0.8
+Sigmodon_arizonae,2438148,Not Synanthropic,TRUE,579,310,0.5354058721934369
+Sigmodon_mascotensis,2438151,NA,NA,692,44,0.06358381502890173
+Sigmodon_hispidus,2438147,Occasionally Synanthropic,TRUE,15831,4204,0.2655549238835197
+Sigmodon_toltecus,4265125,Not Synanthropic,NA,302,33,0.10927152317880795
+Sigmodon_ochrognathus,2438156,NA,NA,276,66,0.2391304347826087
+Sigmodon_alleni,2438158,NA,NA,28,8,0.2857142857142857
+Sigmodon_hirsutus,4265122,NA,NA,1609,40,0.024860161591050343
+Sigmodon_fulviventer,2438153,NA,NA,135,14,0.1037037037037037
+Sigmodon_leucotis,2438157,NA,NA,282,108,0.3829787234042553
+Sigmodon_alstoni,2438155,Occasionally Synanthropic,NA,62,2,0.03225806451612903
+Sigmodon_inopinatus,2438152,NA,NA,0,0,NA
+Chibchanomys_trichotis,2439102,NA,NA,1,0,0
+Chibchanomys_orcesi,4265060,NA,NA,0,0,NA
+Wilfredomys_oenax,2437753,NA,NA,7,4,0.5714285714285714
+Anotomys_leander,2438903,NA,NA,0,0,NA
+Chinchillula_sahamae,2439067,NA,NA,0,0,NA
+Phaenomys_ferrugineus,2439153,NA,NA,1,0,0
+Abrawayaomys_ruschii,2438820,NA,NA,13,3,0.23076923076923078
+Abrawayaomys_chebezi,8372197,NA,NA,0,0,NA
+Reithrodon_typicus,4265080,NA,NA,2,2,1
+Reithrodon_auritus,2438374,Not Synanthropic,NA,47,17,0.3617021276595745
+Ichthyomys_stolzmanni,2437715,NA,NA,1,1,1
+Ichthyomys_pittieri,2437714,NA,NA,0,0,NA
+Ichthyomys_tweedii,2437713,NA,NA,2,0,0
+Ichthyomys_hydrobates,2437716,NA,NA,2,0,0
+Rheomys_mexicanus,2439349,NA,NA,2,0,0
+Rheomys_underwoodi,2439347,NA,NA,1,1,1
+Rheomys_raptor,2439348,NA,NA,1,1,1
+Rheomys_thomasi,2439346,NA,NA,1,1,1
+Neusticomys_mussoi,2437744,NA,NA,1,0,0
+Neusticomys_monticolus,2437741,NA,NA,33,0,0
+Neusticomys_ferreirai,5786903,NA,NA,0,0,NA
+Neusticomys_oyapocki,2437743,NA,NA,2,0,0
+Neusticomys_peruviensis,2437740,NA,NA,0,0,NA
+Neusticomys_venezuelae,2437742,NA,NA,0,0,NA
+Rhipidomys_wetzeli,5219822,NA,NA,9,0,0
+Rhipidomys_couesi,5219823,NA,NA,4,3,0.75
+Rhipidomys_latimanus,5219824,NA,NA,135,1,0.007407407407407408
+Rhipidomys_ipukensis,7655363,NA,NA,4,0,0
+Rhipidomys_modicus,5706774,NA,NA,0,0,NA
+Rhipidomys_nitela,5219820,NA,NA,27,0,0
+Rhipidomys_emiliae,5706771,NA,NA,11,0,0
+Rhipidomys_mastacalis,5219825,Not Synanthropic,NA,198,11,0.05555555555555555
+Rhipidomys_leucodactylus,5219815,Not Synanthropic,NA,20,6,0.3
+Rhipidomys_gardneri,5706773,NA,NA,0,0,NA
+Rhipidomys_ochrogaster,5219826,NA,NA,0,0,NA
+Rhipidomys_venezuelae,5219821,NA,NA,0,0,NA
+Rhipidomys_austrinus,5219814,NA,NA,7,0,0
+Rhipidomys_tribei,10809779,NA,NA,11,0,0
+Rhipidomys_fulviventer,5219818,NA,NA,17,2,0.11764705882352941
+Rhipidomys_itoan,10814110,NA,NA,117,0,0
+Rhipidomys_macrurus,5706772,NA,NA,250,4,0.016
+Rhipidomys_caucensis,5219817,NA,NA,55,0,0
+Rhipidomys_cariri,5786981,NA,NA,2,0,0
+Rhipidomys_venustus,5219827,NA,NA,0,0,NA
+Rhipidomys_macconnelli,5219819,NA,NA,598,0,0
+Chilomys_instans,2438409,NA,NA,22,3,0.13636363636363635
+Rhagomys_longilingua,4265034,NA,NA,1,0,0
+Thomasomys_erro,4265168,NA,NA,23,1,0.043478260869565216
+Thomasomys_andersoni,8755526,NA,NA,0,0,NA
+Thomasomys_pyrrhonotus,2439168,NA,NA,0,0,NA
+Thomasomys_incanus,2439164,NA,NA,0,0,NA
+Thomasomys_taczanowskii,2439162,NA,NA,22,1,0.045454545454545456
+Thomasomys_popayanus,4265165,NA,NA,21,0,0
+Thomasomys_oreas,2439184,NA,NA,7,0,0
+Thomasomys_praetor,4265174,NA,NA,0,0,NA
+Thomasomys_monochromos,2439166,NA,NA,1,1,1
+Thomasomys_ucucha,4265175,NA,NA,13,0,0
+Thomasomys_daphne,2439179,NA,NA,16,0,0
+Thomasomys_silvestris,2439170,NA,NA,0,0,NA
+Thomasomys_hylophilus,2439173,NA,NA,11,0,0
+Thomasomys_vestitus,2439171,NA,NA,0,0,NA
+Thomasomys_hudsoni,4265172,NA,NA,8,0,0
+Thomasomys_kalinowskii,2439174,NA,NA,0,0,NA
+Thomasomys_caudivarius,4265166,NA,NA,148,1,0.006756756756756757
+Thomasomys_rosalinda,2439177,NA,NA,0,0,NA
+Thomasomys_bombycinus,2439161,NA,NA,53,0,0
+Thomasomys_vulcani,4265169,NA,NA,37,2,0.05405405405405406
+Thomasomys_macrotis,4265170,NA,NA,0,0,NA
+Thomasomys_niveipes,2439183,NA,FALSE,744,7,0.009408602150537635
+Thomasomys_cinnameus,4265167,NA,NA,5,0,0
+Thomasomys_apeco,4265171,NA,NA,0,0,NA
+Thomasomys_eleusis,2439172,NA,NA,0,0,NA
+Thomasomys_ladewi,2439165,NA,NA,0,0,NA
+Thomasomys_notatus,2439167,NA,NA,1,0,0
+Thomasomys_laniger,2439182,NA,NA,148,0,0
+Thomasomys_cinereus,2439163,NA,NA,2,0,0
+Thomasomys_onkiro,4265164,NA,NA,0,0,NA
+Thomasomys_baeops,2439169,NA,NA,45,1,0.022222222222222223
+Thomasomys_ischyrus,4265173,NA,NA,0,0,NA
+Thomasomys_paramorum,2439175,NA,NA,30,4,0.13333333333333333
+Thomasomys_aureus,2439176,NA,NA,94,5,0.05319148936170213
+Thomasomys_cinereiventer,2439178,NA,NA,271,0,0
+Thomasomys_gracilis,2439180,NA,NA,0,0,NA
+Aepeomys_reigi,4265150,NA,NA,0,0,NA
+Aepeomys_lugens,2438733,NA,NA,0,0,NA
+Scapteromys_tumidus,2439325,NA,NA,36,1,0.027777777777777776
+Scapteromys_aquaticus,4265010,Not Synanthropic,NA,17,14,0.8235294117647058
+Kunsia_tomentosus,2438945,NA,NA,12,1,0.08333333333333333
+Bibimys_chacoensis,2439030,Not Synanthropic,NA,0,0,NA
+Bibimys_labiosus,2439029,NA,NA,65,5,0.07692307692307693
+Bibimys_torresi,2439028,NA,NA,0,0,NA
+Lenoxus_apicalis,2438111,NA,NA,0,0,NA
+Akodon_sanctipaulensis,2437885,NA,NA,0,0,NA
+Blarinomys_breviceps,2439095,NA,NA,73,6,0.0821917808219178
+Brucepattersonius_guarani,4265065,NA,NA,0,0,NA
+Brucepattersonius_misionensis,4265064,NA,NA,0,0,NA
+Brucepattersonius_igniventris,4265070,NA,NA,0,0,NA
+Brucepattersonius_paradisus,4265069,NA,NA,0,0,NA
+Brucepattersonius_griserufescens,4265068,NA,NA,0,0,NA
+Brucepattersonius_iheringi,4265067,NA,NA,16,1,0.0625
+Brucepattersonius_soricinus,4265066,NA,NA,8,1,0.125
+Juscelinomys_huanchacae,2438365,NA,NA,26,0,0
+Juscelinomys_candango,2438366,NA,NA,0,0,NA
+Oxymycterus_amazonicus,4265188,NA,NA,8,0,0
+Oxymycterus_inca,2438936,NA,NA,16,0,0
+Oxymycterus_delator,2438940,NA,NA,30,0,0
+Oxymycterus_dasytrichus,4265189,NA,NA,91,7,0.07692307692307693
+Oxymycterus_nasutus,2438942,Occasionally Synanthropic,NA,85,2,0.023529411764705882
+Oxymycterus_quaestor,4265191,NA,NA,5,2,0.4
+Oxymycterus_josei,4265190,NA,NA,1,1,1
+Oxymycterus_rufus,2438938,Not Synanthropic,NA,58,44,0.7586206896551724
+Oxymycterus_wayku,8236832,NA,NA,0,0,NA
+Oxymycterus_roberti,2438943,NA,NA,0,0,NA
+Oxymycterus_paramensis,2438937,NA,NA,9,0,0
+Oxymycterus_caparoae,4265187,NA,NA,51,0,0
+Oxymycterus_hiska,2438933,NA,NA,0,0,NA
+Oxymycterus_angularis,2438932,NA,NA,4,0,0
+Oxymycterus_hispidus,2438935,Not Synanthropic,NA,1,0,0
+Oxymycterus_hucucha,2438941,NA,NA,0,0,NA
+Necromys_amoenus,4265143,NA,NA,27,0,0
+Necromys_urichi,4265135,Not Synanthropic,NA,110,0,0
+Necromys_benefactus,4265140,NA,NA,0,0,NA
+Necromys_lactens,4265137,NA,NA,5,0,0
+Necromys_lenguarum,4265139,Not Synanthropic,NA,48,0,0
+Necromys_punctulatus,4265141,NA,NA,0,0,NA
+Necromys_lasiurus,4265142,Occasionally Synanthropic,TRUE,735,33,0.044897959183673466
+Necromys_temchuki,4265138,NA,NA,0,0,NA
+Necromys_obscurus,4265136,NA,NA,0,0,NA
+Thalpomys_lasiotis,2438858,Not Synanthropic,NA,18,0,0
+Thalpomys_cerradensis,2438859,Not Synanthropic,NA,8,1,0.125
+Podoxymys_roraimae,2438920,NA,NA,1,0,0
+Thaptomys_nigrita,4265133,Not Synanthropic,NA,545,26,0.047706422018348627
+Deltamys_kempi,4265101,Not Synanthropic,NA,11,5,0.45454545454545453
+Akodon_mimus,2437896,NA,NA,4,0,0
+Akodon_dayi,2437899,NA,NA,18,0,0
+Akodon_toba,2437891,Not Synanthropic,NA,31,0,0
+Akodon_dolores,2437882,Not Synanthropic,NA,36,3,0.08333333333333333
+Akodon_molinae,2437879,Not Synanthropic,NA,0,0,NA
+Akodon_iniscatus,2437886,Not Synanthropic,NA,8,2,0.25
+Akodon_philipmyersi,4828888,NA,NA,0,0,NA
+Akodon_lindberghi,2437890,NA,NA,5,0,0
+Akodon_azarae,2437878,Occasionally Synanthropic,TRUE,224,28,0.125
+Akodon_lutescens,4265087,NA,NA,44,0,0
+Akodon_subfuscus,2437904,NA,NA,3,0,0
+Akodon_sylvanus,2437906,NA,NA,0,0,NA
+Akodon_polopi,8050916,NA,NA,10,2,0.2
+Akodon_spegazzinii,2437919,NA,NA,69,0,0
+Akodon_boliviensis,2437897,NA,NA,24,15,0.625
+Akodon_fumeus,2437915,NA,NA,0,0,NA
+Akodon_kofordi,2437888,NA,NA,0,0,NA
+Akodon_juninensis,2437918,NA,NA,0,0,NA
+Akodon_reigi,4265081,NA,NA,4,0,0
+Akodon_paranaensis,4265088,Occasionally Synanthropic,NA,32,1,0.03125
+Akodon_mystax,4265089,NA,NA,31,0,0
+Akodon_montensis,4265083,Occasionally Synanthropic,TRUE,1322,7,0.00529500756429652
+Akodon_cursor,2437913,Not Synanthropic,NA,674,7,0.010385756676557863
+Akodon_varius,2437922,Occasionally Synanthropic,NA,0,0,NA
+Akodon_simulator,2437887,Occasionally Synanthropic,NA,95,0,0
+Akodon_albiventer,2437895,NA,NA,185,21,0.11351351351351352
+Akodon_affinis,2437908,NA,FALSE,297,0,0
+Akodon_orophilus,2437883,NA,NA,2,0,0
+Akodon_mollis,2437912,NA,NA,290,29,0.1
+Akodon_torques,2437921,NA,NA,107,0,0
+Akodon_aerosus,2437892,NA,NA,128,3,0.0234375
+Akodon_budini,2437880,NA,NA,0,0,NA
+Akodon_surdus,2437889,NA,NA,0,0,NA
+Akodon_siberiae,2437902,NA,NA,0,0,NA
+Akodon_serrensis,2437917,Not Synanthropic,NA,86,0,0
+Akodon_pervalens,4265086,NA,NA,0,0,NA
+Punomys_lemminus,2438863,NA,NA,0,0,NA
+Punomys_kofordi,4265149,NA,NA,0,0,NA
+Andinomys_edax,2438956,NA,NA,12,0,0
+Rhagomys_rufescens,2439151,NA,NA,10,1,0.1
+Euneomys_chinchilloides,2438876,NA,NA,40,1,0.025
+Euneomys_fossor,2438874,NA,NA,0,0,NA
+Euneomys_petersoni,2438875,NA,NA,0,0,NA
+Euneomys_mordax,2438877,NA,NA,3,0,0
+Neotomys_ebriosus,5219832,NA,NA,9,3,0.3333333333333333
+Irenomys_tarsalis,2439210,NA,NA,60,4,0.06666666666666667
+Delomys_sublineatus,2438531,NA,NA,134,3,0.022388059701492536
+Delomys_dorsalis,2438532,NA,NA,212,2,0.009433962264150943
+Calomys_hummelincki,2437952,NA,NA,2,0,0
+Calomys_callidus,2437953,Occasionally Synanthropic,NA,15,1,0.06666666666666667
+Calomys_boliviae,2437956,NA,NA,48,0,0
+Calomys_tener,2437954,Occasionally Synanthropic,NA,337,6,0.017804154302670624
+Calomys_expulsus,4265146,NA,NA,135,5,0.037037037037037035
+Calomys_callosus,2437950,Occasionally Synanthropic,TRUE,243,0,0
+Calomys_tocantinsi,4265147,NA,NA,18,0,0
+Calomys_venustus,4265148,Not Synanthropic,NA,163,0,0
+Calomys_laucha,9719395,Occasionally Synanthropic,NA,94,13,0.13829787234042554
+Calomys_musculinus,2437951,Occasionally Synanthropic,NA,217,3,0.013824884792626729
+Calomys_sorellus,2437957,NA,NA,1,0,0
+Calomys_lepidus,2437955,NA,NA,27,1,0.037037037037037035
+Phyllotis_wolffsohni,5219761,NA,NA,0,0,NA
+Phyllotis_definitus,5219763,NA,NA,0,0,NA
+Phyllotis_osgoodi,5219764,NA,NA,0,0,NA
+Tapecomys_primus,4265009,NA,NA,0,0,NA
+Phyllotis_osilae,5219756,NA,NA,30,1,0.03333333333333333
+Phyllotis_anitae,5786964,NA,NA,0,0,NA
+Phyllotis_alisosiensis,10790289,NA,NA,0,0,NA
+Phyllotis_amicus,5219753,NA,NA,0,0,NA
+Phyllotis_andium,5219757,NA,NA,4,1,0.25
+Phyllotis_darwini,5219758,Occasionally Synanthropic,TRUE,983,92,0.0935910478128179
+Phyllotis_magister,5219760,NA,NA,24,0,0
+Phyllotis_caprinus,5219754,NA,NA,0,0,NA
+Phyllotis_xanthopygus,5219765,NA,NA,221,13,0.058823529411764705
+Phyllotis_bonariensis,5706753,NA,NA,3,3,1
+Phyllotis_haggardi,5219759,NA,NA,6,2,0.3333333333333333
+Phyllotis_limatus,5706752,NA,NA,20,0,0
+Loxodontomys_pikumche,4265177,NA,NA,0,0,NA
+Loxodontomys_micropus,4265178,Not Synanthropic,NA,473,6,0.012684989429175475
+Galenomys_garleppi,2438414,NA,NA,0,0,NA
+Auliscomys_sublimis,2438833,NA,NA,4,4,1
+Auliscomys_pictus,2438835,NA,NA,2,2,1
+Auliscomys_boliviensis,2438834,NA,NA,53,52,0.9811320754716981
+Salinomys_delicatus,4265031,NA,NA,4,0,0
+Andalgalomys_pearsoni,2438726,NA,NA,0,0,NA
+Andalgalomys_olrogi,2438727,NA,NA,9,0,0
+Eligmodontia_morgani,5219749,Not Synanthropic,NA,8,1,0.125
+Eligmodontia_puerulus,5219752,NA,NA,78,0,0
+Eligmodontia_moreni,5219751,NA,NA,36,0,0
+Eligmodontia_typus,5219750,Not Synanthropic,NA,23,2,0.08695652173913043
+Graomys_edithae,2438232,NA,NA,0,0,NA
+Graomys_domorum,2438230,NA,NA,15,0,0
+Graomys_griseoflavus,2438231,Not Synanthropic,NA,64,14,0.21875
+Wiedomys_pyrrhorhinos,2438198,NA,NA,44,5,0.11363636363636363
+Wiedomys_cerradensis,5786912,NA,NA,149,41,0.2751677852348993
+Juliomys_rimofrons,4265156,NA,NA,1,1,1
+Juliomys_pictipes,4265157,NA,NA,61,2,0.03278688524590164
+Notiomys_edwardsii,2438354,NA,NA,0,0,NA
+Chelemys_megalonyx,2439045,NA,NA,0,0,NA
+Pearsonomys_annectens,4265077,NA,NA,0,0,NA
+Geoxus_valdivianus,2438116,NA,NA,66,29,0.4393939393939394
+Chelemys_macronyx,2439044,Not Synanthropic,NA,170,2,0.011764705882352941
+Abrothrix_longipilis,4265092,Not Synanthropic,TRUE,1108,38,0.03429602888086643
+Abrothrix_lanosus,4265095,NA,NA,7,1,0.14285714285714285
+Abrothrix_sanborni,4265091,NA,NA,10,2,0.2
+Abrothrix_andinus,4265099,NA,NA,192,25,0.13020833333333334
+Abrothrix_olivaceus,4265094,Occasionally Synanthropic,TRUE,1642,146,0.08891595615103533
+Abrothrix_manni,9003103,NA,NA,2,2,1
+Abrothrix_jelskii,4265098,NA,NA,26,18,0.6923076923076923
+Abrothrix_illuteus,4265093,NA,NA,0,0,NA
+Scolomys_ucayalensis,2439221,NA,NA,6,0,0
+Scolomys_melanops,2439222,NA,NA,38,3,0.07894736842105263
+Zygodontomys_brunneus,2439343,NA,NA,505,0,0
+Zygodontomys_brevicauda,2439344,Occasionally Synanthropic,TRUE,4654,2,4.297378599054577e-4
+Oligoryzomys_magellanicus,2438277,NA,NA,53,0,0
+Oligoryzomys_longicaudatus,2438272,Occasionally Synanthropic,TRUE,1443,33,0.02286902286902287
+Oligoryzomys_fornesi,4265163,Occasionally Synanthropic,NA,37,0,0
+Oligoryzomys_andinus,2438279,NA,NA,2,1,0.5
+Oligoryzomys_flavescens,2438271,Occasionally Synanthropic,TRUE,545,31,0.05688073394495413
+Oligoryzomys_vegetus,2438278,NA,NA,17,0,0
+Oligoryzomys_fulvescens,2438276,Occasionally Synanthropic,NA,1208,17,0.014072847682119206
+Oligoryzomys_moojeni,5786849,NA,NA,0,0,NA
+Oligoryzomys_griseolus,2438282,NA,NA,17,0,0
+Oligoryzomys_rupestris,5786850,NA,NA,1,1,1
+Oligoryzomys_eliurus,2438281,NA,NA,2,0,0
+Oligoryzomys_delticola,2438280,NA,NA,0,0,NA
+Oligoryzomys_arenalis,2438285,NA,NA,0,0,NA
+Oligoryzomys_chacoensis,2438274,Occasionally Synanthropic,NA,86,1,0.011627906976744186
+Oligoryzomys_destructor,2438275,NA,NA,85,1,0.011764705882352941
+Oligoryzomys_brendae,4265162,NA,NA,0,0,NA
+Oligoryzomys_stramineus,4265161,NA,NA,8,0,0
+Oligoryzomys_nigripes,2438273,Occasionally Synanthropic,TRUE,1660,32,0.01927710843373494
+Oligoryzomys_victus,2438284,NA,NA,0,0,NA
+Oligoryzomys_microtis,2438283,Occasionally Synanthropic,NA,66,0,0
+Microakodontomys_transitorius,4265154,NA,NA,2,0,0
+Oreoryzomys_balneator,5786965,NA,NA,84,1,0.011904761904761904
+Neacomys_minutus,4265057,NA,NA,2,0,0
+Neacomys_pictus,2439291,NA,NA,0,0,NA
+Microryzomys_minutus,2437778,NA,NA,209,1,0.004784688995215311
+Microryzomys_altissimus,2437777,NA,NA,136,2,0.014705882352941176
+Neacomys_paracou,4265058,NA,NA,41,0,0
+Neacomys_spinosus,2439290,Occasionally Synanthropic,NA,110,0,0
+Neacomys_tenuipes,2439288,Not Synanthropic,NA,249,0,0
+Neacomys_dubosti,4265056,NA,NA,8,0,0
+Neacomys_musseri,4265059,NA,NA,0,0,NA
+Neacomys_guianae,2439289,NA,NA,17,0,0
+Drymoreomys_albimaculatus,10796151,NA,NA,6,1,0.16666666666666666
+Megalomys_luciae,5219830,NA,NA,0,0,NA
+Megalomys_desmarestii,5219829,NA,NA,0,0,NA
+Eremoryzomys_polius,5786881,NA,NA,0,0,NA
+Cerradomys_marinhus,5786900,NA,NA,4,0,0
+Cerradomys_maracajuensis,5786902,NA,NA,15,1,0.06666666666666667
+Cerradomys_subflavus,5786899,Not Synanthropic,NA,153,4,0.026143790849673203
+Cerradomys_scotti,5786901,NA,NA,117,1,0.008547008547008548
+Noronhomys_vespuccii,4265062,NA,NA,0,0,NA
+Sooretamys_angouya,5786884,NA,TRUE,130,4,0.03076923076923077
+Megaoryzomys_curioi,4265033,NA,NA,2,0,0
+Amphinectomys_savamis,4265007,NA,NA,0,0,NA
+Nectomys_palmipes,5219854,NA,NA,4,3,0.75
+Nectomys_apicalis,5706777,NA,NA,66,2,0.030303030303030304
+Nectomys_rattus,5706776,Not Synanthropic,NA,73,6,0.0821917808219178
+Nectomys_squamipes,5219856,Occasionally Synanthropic,NA,611,20,0.03273322422258593
+Oryzomys_gorgasi,2438091,NA,NA,0,0,NA
+Oryzomys_couesi,2438070,NA,TRUE,565,12,0.021238938053097345
+Oryzomys_dimidiatus,2438079,NA,NA,0,0,NA
+Oryzomys_palustris,2438095,Not Synanthropic,TRUE,576,59,0.10243055555555555
+Oryzomys_nelsoni,2438105,NA,NA,0,0,NA
+Nesoryzomys_darwini,2438930,NA,NA,0,0,NA
+Nesoryzomys_fernandinae,2438928,NA,NA,1,1,1
+Nesoryzomys_swarthi,2438929,NA,NA,0,0,NA
+Nesoryzomys_indefessus,2438927,NA,NA,0,0,NA
+Nesoryzomys_narboroughi,5786910,NA,NA,1,0,0
+Aegialomys_xanthaeolus,5786856,NA,NA,14,3,0.21428571428571427
+Aegialomys_galapagoensis,5786854,NA,NA,28,22,0.7857142857142857
+Sigmodontomys_alfari,2439118,NA,NA,18,2,0.1111111111111111
+Melanomys_caliginosus,5219852,NA,TRUE,570,40,0.07017543859649122
+Melanomys_zunigae,5219851,NA,NA,0,0,NA
+Melanomys_robustulus,5219850,NA,NA,4,4,1
+Pennatomys_nivalis,8744269,NA,NA,0,0,NA
+Lundomys_molitor,4265127,NA,NA,7,1,0.14285714285714285
+Pseudoryzomys_simplex,2438678,NA,NA,44,0,0
+Holochilus_sciureus,5219708,Not Synanthropic,NA,89,3,0.033707865168539325
+Holochilus_chacarius,5219711,Not Synanthropic,NA,86,3,0.03488372093023256
+Holochilus_brasiliensis,5219709,Not Synanthropic,NA,83,34,0.40963855421686746
+Hylaeamys_perenensis,5786889,NA,NA,191,6,0.031413612565445025
+Hylaeamys_acritus,5786890,NA,NA,5,0,0
+Hylaeamys_laticeps,5786893,NA,NA,99,1,0.010101010101010102
+Hylaeamys_tatei,5786894,NA,NA,3,1,0.3333333333333333
+Hylaeamys_megacephalus,5786888,NA,TRUE,725,4,0.005517241379310344
+Hylaeamys_yunganus,5786892,NA,NA,114,3,0.02631578947368421
+Hylaeamys_oniscus,5786891,NA,NA,14,1,0.07142857142857142
+Nephelomys_keaysi,5786916,NA,NA,77,0,0
+Nephelomys_caracolus,5786918,NA,NA,0,0,NA
+Mindomys_hammondi,5786911,NA,NA,0,0,NA
+Nephelomys_auriventer,5786920,NA,NA,5,0,0
+Nephelomys_levipes,5786917,NA,NA,30,0,0
+Nephelomys_albigularis,5786919,NA,NA,387,2,0.00516795865633075
+Nephelomys_meridensis,5786914,NA,NA,23,0,0
+Nephelomys_devius,5786915,NA,NA,84,3,0.03571428571428571
+Euryoryzomys_macconnelli,5786858,NA,NA,128,0,0
+Euryoryzomys_legatus,5786864,NA,NA,17,0,0
+Euryoryzomys_emmonsae,5786862,NA,NA,2,0,0
+Euryoryzomys_russatus,5786860,NA,NA,507,7,0.013806706114398421
+Euryoryzomys_nitidus,5786863,NA,NA,90,1,0.011111111111111112
+Euryoryzomys_lamia,5786859,NA,NA,4,4,1
+Transandinomys_talamancae,5786979,NA,NA,552,7,0.012681159420289856
+Transandinomys_bolivaris,5786980,NA,NA,59,4,0.06779661016949153
+Oecomys_catherinae,4265023,NA,NA,65,3,0.046153846153846156
+Oecomys_concolor,2439311,Not Synanthropic,NA,31,0,0
+Oecomys_cleberi,2439307,NA,NA,53,0,0
+Oecomys_mamorae,2439317,NA,NA,37,0,0
+Oecomys_trinitatis,2439310,NA,NA,50,2,0.04
+Oecomys_superans,2439319,NA,NA,5,0,0
+Oecomys_roberti,2439312,NA,NA,40,0,0
+Oecomys_bicolor,2439315,Not Synanthropic,NA,835,19,0.022754491017964073
+Oecomys_auyantepui,4265024,NA,NA,123,0,0
+Oecomys_paricola,2439313,NA,NA,24,0,0
+Oecomys_speciosus,2439314,NA,NA,26,1,0.038461538461538464
+Oecomys_phaeotis,2439308,NA,NA,5,0,0
+Oecomys_rutilus,2439309,NA,NA,71,0,0
+Oecomys_rex,2439318,NA,NA,25,1,0.04
+Oecomys_flavicans,2439316,NA,NA,2,0,0
+Handleyomys_intectus,4265180,NA,NA,23,0,0
+Handleyomys_fuscatus,4265181,NA,NA,17,0,0
+Petromyscus_collinus,2437719,NA,NA,54,2,0.037037037037037035
+Petromyscus_shortridgei,2437718,NA,NA,0,0,NA
+Petromyscus_barbouri,2437720,NA,NA,2,1,0.5
+Petromyscus_monticularis,2437721,NA,NA,0,0,NA
+Mystromys_albicaudatus,2438522,NA,NA,3,2,0.6666666666666666
+Prionomys_batesi,2439286,NA,NA,0,0,NA
+Delanymys_brooksi,2437678,NA,NA,11,0,0
+Megadendromus_nikolausi,2439333,NA,NA,0,0,NA
+Beamys_hindei,2437732,Not Synanthropic,NA,70,30,0.42857142857142855
+Cricetomys_gambianus,2438550,Occasionally Synanthropic,TRUE,1928,87,0.04512448132780083
+Cricetomys_emini,2438551,Not Synanthropic,NA,155,62,0.4
+Steatomys_cuppedius,2438740,NA,NA,1,0,0
+Steatomys_bocagei,4263425,NA,NA,0,0,NA
+Steatomys_caurinus,2438743,NA,NA,49,0,0
+Steatomys_opimus,4263426,NA,NA,3,1,0.3333333333333333
+Steatomys_parvus,2438741,NA,NA,15,0,0
+Steatomys_pratensis,2438739,Not Synanthropic,NA,24,8,0.3333333333333333
+Steatomys_krebsii,2438742,NA,NA,6,5,0.8333333333333334
+Steatomys_jacksoni,2438738,NA,NA,0,0,NA
+Dendromus_melanotis,5219775,NA,NA,63,33,0.5238095238095238
+Dendromus_ruppi,10803046,NA,NA,4,0,0
+Dendromus_messorius,5219767,NA,NA,52,0,0
+Malacothrix_typica,5219707,NA,NA,17,12,0.7058823529411765
+Dendromus_lovati,5219768,NA,NA,19,1,0.05263157894736842
+Dendromus_lachaisei,8868129,NA,NA,3,0,0
+Dendromus_oreas,5219766,NA,NA,0,0,NA
+Dendromus_mystacalis,5219774,NA,NA,63,4,0.06349206349206349
+Dendromus_kahuziensis,5219776,NA,NA,0,0,NA
+Dendromus_insignis,5219772,NA,NA,105,0,0
+Dendromus_mesomelas,5219770,Not Synanthropic,NA,30,22,0.7333333333333333
+Dendromus_vernayi,5219773,NA,NA,0,0,NA
+Dendromus_nyikae,5219769,NA,NA,42,0,0
+Saccostomus_mearnsi,2438949,Not Synanthropic,NA,6,1,0.16666666666666666
+Saccostomus_campestris,2438948,Not Synanthropic,TRUE,204,52,0.2549019607843137
+Dendroprionomys_rousseloti,2438830,NA,NA,0,0,NA
+Brachytarsomys_villosa,4263420,NA,NA,0,0,NA
+Brachytarsomys_albicauda,2438951,NA,NA,10,6,0.6
+Voalavo_gymnocaudus,4263430,NA,NA,0,0,NA
+Voalavo_antsahabensis,5786784,NA,NA,16,0,0
+Eliurus_grandidieri,4263421,NA,NA,27,0,0
+Eliurus_petteri,4263422,NA,NA,2,0,0
+Eliurus_tanala,2438526,NA,NA,59,5,0.0847457627118644
+Eliurus_ellermani,4263423,NA,NA,10,0,0
+Eliurus_penicillatus,2438528,NA,NA,0,0,NA
+Eliurus_myoxinus,2438525,NA,NA,168,15,0.08928571428571429
+Eliurus_danieli,5786782,NA,NA,4,0,0
+Eliurus_minor,2438527,NA,NA,96,0,0
+Eliurus_webbi,2438524,NA,NA,89,0,0
+Eliurus_antsingy,4263424,NA,NA,24,0,0
+Eliurus_carletoni,10712421,NA,NA,88,1,0.011363636363636364
+Eliurus_majori,2438529,Not Synanthropic,NA,50,2,0.04
+Gymnuromys_roberti,2438764,NA,NA,15,0,0
+Brachyuromys_ramirohitra,2439208,NA,NA,2,0,0
+Brachyuromys_betsileoensis,2439207,NA,NA,5,0,0
+Nesomys_rufus,2438588,NA,NA,73,31,0.4246575342465753
+Nesomys_lambertoni,4263431,NA,NA,24,22,0.9166666666666666
+Nesomys_audeberti,4263432,NA,NA,14,4,0.2857142857142857
+Macrotarsomys_petteri,4829157,NA,NA,1,0,0
+Hypogeomys_antimena,2438545,Not Synanthropic,NA,20,19,0.95
+Macrotarsomys_ingens,2438488,NA,NA,0,0,NA
+Monticolomys_koopmani,4263428,NA,NA,10,0,0
+Macrotarsomys_bastardi,2438489,NA,NA,17,9,0.5294117647058824
+Microdipodops_pallidus,2439501,NA,NA,249,1,0.004016064257028112
+Microdipodops_megacephalus,2439502,NA,NA,418,0,0
+Dipodomys_deserti,2439535,NA,NA,595,336,0.5647058823529412
+Dipodomys_spectabilis,2439531,Not Synanthropic,NA,367,78,0.2125340599455041
+Dipodomys_nelsoni,2439545,NA,NA,704,5,0.007102272727272727
+Dipodomys_nitratoides,2439524,NA,NA,35,13,0.37142857142857144
+Dipodomys_merriami,2439521,Not Synanthropic,TRUE,9469,653,0.06896187559404372
+Dipodomys_elator,2439549,NA,NA,1,1,1
+Dipodomys_phillipsii,2439519,NA,NA,111,7,0.06306306306306306
+Dipodomys_californicus,2439546,NA,NA,127,69,0.5433070866141733
+Dipodomys_microps,2439510,NA,NA,947,12,0.012671594508975714
+Dipodomys_heermanni,2439536,NA,NA,209,103,0.49282296650717705
+Dipodomys_panamintinus,2439513,NA,NA,377,19,0.050397877984084884
+Dipodomys_stephensi,2439542,NA,NA,15,9,0.6
+Dipodomys_simulans,2439533,NA,NA,656,141,0.2149390243902439
+Dipodomys_agilis,2439534,Not Synanthropic,NA,226,49,0.2168141592920354
+Dipodomys_venustus,2439514,NA,NA,36,33,0.9166666666666666
+Dipodomys_gravipes,2439544,NA,NA,10,10,1
+Dipodomys_ingens,2439550,NA,NA,90,72,0.8
+Dipodomys_ordii,2439541,Not Synanthropic,TRUE,7011,389,0.05548423905291684
+Dipodomys_compactus,2439520,NA,NA,78,32,0.41025641025641024
+Thomomys_idahoensis,2439384,NA,NA,16,0,0
+Thomomys_clusius,2439387,NA,NA,1,0,0
+Thomomys_townsendii,2439388,NA,NA,9,0,0
+Thomomys_bottae,2439385,Not Synanthropic,NA,2208,0,0
+Thomomys_umbrinus,2439382,NA,NA,148,1,0.006756756756756757
+Thomomys_bulbivorus,2439390,NA,NA,13,0,0
+Thomomys_mazama,2439389,NA,NA,129,20,0.15503875968992248
+Thomomys_monticola,2439386,NA,NA,256,23,0.08984375
+Thomomys_talpoides,2439383,Not Synanthropic,NA,2012,626,0.3111332007952286
+Geomys_pinetis,2439377,NA,NA,377,365,0.9681697612732095
+Geomys_breviceps,2439376,NA,NA,489,350,0.7157464212678937
+Geomys_tropicalis,2439374,NA,NA,7,7,1
+Geomys_personatus,2439375,NA,NA,196,166,0.8469387755102041
+Geomys_attwateri,2439371,NA,NA,574,483,0.8414634146341463
+Geomys_bursarius,2439378,NA,TRUE,1080,717,0.6638888888888889
+Geomys_texensis,2439370,NA,NA,129,99,0.7674418604651163
+Geomys_knoxjonesi,2439373,NA,NA,101,27,0.26732673267326734
+Geomys_arenarius,2439372,NA,NA,105,25,0.23809523809523808
+Zygogeomys_trichopus,2439380,NA,NA,1,0,0
+Orthogeomys_cavator,2439408,NA,NA,3,3,1
+Orthogeomys_heterodus,2439411,NA,NA,4,3,0.75
+Orthogeomys_underwoodi,2439404,NA,NA,3,3,1
+Orthogeomys_hispidus,2439406,NA,NA,141,120,0.851063829787234
+Orthogeomys_grandis,2439402,NA,NA,39,20,0.5128205128205128
+Orthogeomys_cuniculus,2439412,NA,NA,0,0,NA
+Pappogeomys_bulleri,2439397,NA,NA,56,17,0.30357142857142855
+Cratogeomys_planiceps,5786663,NA,NA,19,17,0.8947368421052632
+Cratogeomys_fumosus,4264557,NA,NA,417,399,0.9568345323741008
+Cratogeomys_perotensis,4262204,NA,NA,18,2,0.1111111111111111
+Cratogeomys_merriami,7261625,NA,NA,316,306,0.9683544303797469
+Cratogeomys_fulvescens,4267440,NA,NA,34,12,0.35294117647058826
+Cratogeomys_goldmani,7261628,NA,NA,139,18,0.12949640287769784
+Cratogeomys_castanops,7261626,NA,NA,257,135,0.5252918287937743
+Liomys_salvini,2439506,NA,NA,124,22,0.1774193548387097
+Liomys_adspersus,2439505,NA,NA,954,0,0
+Liomys_irroratus,2439507,Not Synanthropic,NA,1078,66,0.061224489795918366
+Liomys_spectabilis,2439504,NA,NA,1,0,0
+Liomys_pictus,2439508,NA,TRUE,1927,38,0.019719771665801765
+Heteromys_catopterius,7984579,NA,NA,0,0,NA
+Heteromys_desmarestianus,2439574,Occasionally Synanthropic,NA,1137,23,0.020228671943711522
+Heteromys_oresterus,2439571,NA,NA,5,1,0.2
+Heteromys_gaumeri,2439572,Not Synanthropic,NA,349,20,0.05730659025787966
+Heteromys_australis,2439568,NA,NA,154,7,0.045454545454545456
+Heteromys_anomalus,2439570,Occasionally Synanthropic,NA,189,4,0.021164021164021163
+Heteromys_teleus,4263277,NA,NA,5,3,0.6
+Heteromys_nelsoni,2439573,NA,NA,59,1,0.01694915254237288
+Heteromys_oasicus,4263269,NA,NA,0,0,NA
+Perognathus_fasciatus,2439561,NA,NA,2147,14,0.006520726595249185
+Perognathus_flavus,2439566,Not Synanthropic,TRUE,1621,110,0.06785934608266501
+Perognathus_merriami,2439560,NA,TRUE,314,79,0.2515923566878981
+Perognathus_flavescens,2439558,NA,NA,466,11,0.023605150214592276
+Perognathus_longimembris,2439563,NA,NA,1414,39,0.027581329561527583
+Perognathus_inornatus,2439562,NA,NA,327,22,0.0672782874617737
+Perognathus_amplus,2439553,NA,NA,364,7,0.019230769230769232
+Perognathus_parvus,2439554,NA,NA,2012,65,0.03230616302186879
+Perognathus_alticolus,4263073,NA,NA,10,1,0.1
+Chaetodipus_hispidus,2439583,Not Synanthropic,TRUE,2870,86,0.029965156794425088
+Chaetodipus_eremicus,2439588,NA,NA,1619,15,0.00926497838171711
+Chaetodipus_penicillatus,2439591,Not Synanthropic,NA,2049,172,0.08394338701805759
+Chaetodipus_intermedius,2439589,Not Synanthropic,TRUE,1382,24,0.017366136034732273
+Chaetodipus_spinatus,2439586,NA,NA,1155,68,0.05887445887445888
+Chaetodipus_pernix,2439600,NA,NA,122,14,0.11475409836065574
+Chaetodipus_nelsoni,2439577,Not Synanthropic,NA,1616,18,0.011138613861386138
+Chaetodipus_lineatus,2439593,NA,NA,0,0,NA
+Chaetodipus_goldmani,2439585,NA,NA,124,1,0.008064516129032258
+Chaetodipus_artus,2439599,NA,NA,110,2,0.01818181818181818
+Chaetodipus_fallax,2439579,NA,NA,523,101,0.1931166347992352
+Chaetodipus_arenarius,2439598,NA,NA,1305,4,0.0030651340996168583
+Chaetodipus_californicus,2439594,NA,NA,774,119,0.15374677002583978
+Chaetodipus_baileyi,2439581,Not Synanthropic,NA,2274,28,0.012313104661389622
+Chaetodipus_rudinoris,7261497,NA,NA,124,10,0.08064516129032258
+Chaetodipus_formosus,2439596,NA,NA,1453,36,0.02477632484514797
+Castor_fiber,4409131,Not Synanthropic,NA,393327,21938,0.055775474350858195
+Castor_canadensis,2439838,Not Synanthropic,TRUE,95724,59817,0.6248903096402156
+Pedetes_surdaster,5706735,NA,NA,44,37,0.8409090909090909
+Pedetes_capensis,5219942,NA,TRUE,416,282,0.6778846153846154
+Idiurus_zenkeri,2439362,NA,NA,1,0,0
+Idiurus_macrotis,2439363,NA,NA,11,3,0.2727272727272727
+Anomalurus_pelii,5219882,NA,NA,40,20,0.5
+Anomalurus_beecrofti,5219881,NA,NA,101,44,0.43564356435643564
+Anomalurus_derbianus,5219879,NA,TRUE,114,85,0.7456140350877193
+Anomalurus_pusillus,5219880,NA,NA,10,8,0.8
+Zenkerella_insignis,5219878,NA,NA,5,5,1

@@ -11,3 +11,6 @@ outputs/models/*
 *.shx
 *.dbf
 *.prj
+
+# Manuscript, plan and references stay local
+manuscript/

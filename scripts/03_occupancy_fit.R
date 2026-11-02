@@ -25,7 +25,7 @@ gbif_raw <- read_rds(here("data", "processed", "gbif_target_group_background.rds
   mutate(longitude = round(longitude, 5), latitude = round(latitude, 5))
 
 # 1C. ArHa Structured Database (Temporally Aligned & Rodents Only)
-arha_db <- read_rds(here("data", "raw", "Project_ArHa_database_2026-01-09.rds"))
+arha_db <- read_rds(here("data", "raw", "Project_ArHa_database_2026-10-23.rds"))
 arha_host <- arha_db$host |> 
   drop_na(longitude, latitude) |>
   filter(coordinate_resolution_processed %in% c("site", "village", "town", "city", "study_area")) |>

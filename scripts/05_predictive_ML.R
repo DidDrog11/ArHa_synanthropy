@@ -17,8 +17,10 @@ traits_raw <- read_rds(here("data", "raw", "host_traits_final.rds")) |>
   select(species, tip_label, pace_of_life_pc1, repro_strategy_pc2, maternal_investment_pc3,
          geographic_range_km2, habitat_breadth, diet_breadth)
 
-# Load Ground Truth Synanthropy (The 84 anchor species)
-syn_targets <- read_rds(here("data", "processed", "BART_ready_synanthropy_traits.rds"))
+# Load Ground Truth Synanthropy (anchor species from script 04)
+# Primary index: occupancy-weighted mean gHM (decision log 2026-11-02)
+syn_targets <- read_rds(here("data", "processed", "BART_ready_synanthropy_traits.rds")) |>
+  select(species, wmean_gHM_median, wmean_gHM_lower, wmean_gHM_upper)
 
 # Load the Phylogenetic Tree
 rodent_tree <- read.tree(here("data", "raw", "mammal_tree_matched.tre"))
@@ -38,8 +40,7 @@ predictor_complete <- missRanger(traits_raw, formula = . ~ . - species - tip_lab
 
 # Merge everything
 master_data <- predictor_complete |> 
-  left_join(syn_targets, by = "species") |> 
-  select(-max_rhat, -status) |> 
+  left_join(syn_targets, by = "species") |>
   # THE FIX 1: Scale the massive raw numbers into Z-scores!
   mutate(
     range_scaled = scale(geographic_range_km2)[,1],
@@ -48,17 +49,21 @@ master_data <- predictor_complete |>
   )
 
 # BETA REGRESSION SQUEEZE
-master_data <- master_data |> 
+# Smithson & Verkuilen (2006): N is the number of modelled (training) species,
+# not every row in master_data
+n_train <- sum(!is.na(master_data$wmean_gHM_median))
+
+master_data <- master_data |>
   mutate(
-    peak_gHM_squeezed = ifelse(
-      !is.na(peak_gHM_median),
-      (peak_gHM_median * (n() - 1) + 0.5) / n(), 
+    wmean_gHM_squeezed = ifelse(
+      !is.na(wmean_gHM_median),
+      (wmean_gHM_median * (n_train - 1) + 0.5) / n_train,
       NA
     )
   )
 
-train_df <- master_data |> filter(!is.na(peak_gHM_squeezed))
-shadow_df <- master_data |> filter(is.na(peak_gHM_squeezed))
+train_df <- master_data |> filter(!is.na(wmean_gHM_squeezed))
+shadow_df <- master_data |> filter(is.na(wmean_gHM_squeezed))
 
 cli_alert_info(paste("Training set:", nrow(train_df), "anchor species."))
 cli_alert_info(paste("Shadow set:", nrow(shadow_df), "species to predict."))
@@ -69,7 +74,7 @@ cli_h1("Fitting Bayesian PGLMM")
 
 # The Formula: Using the new _scaled variables!
 pglmm_formula <- bf(
-  peak_gHM_squeezed ~ pace_of_life_pc1 + repro_strategy_pc2 + maternal_investment_pc3 + 
+  wmean_gHM_squeezed ~ pace_of_life_pc1 + repro_strategy_pc2 + maternal_investment_pc3 + 
     range_scaled + habitat_scaled + diet_scaled + 
     (1 | gr(tip_label, cov = A_matrix))
 )
@@ -115,8 +120,8 @@ shadow_formatted <- shadow_df |>
   mutate(data_source = "Predicted (PGLMM)")
 
 train_formatted <- train_df |> 
-  select(species, final_gHM_median = peak_gHM_median, 
-         final_gHM_lower = peak_gHM_lower, final_gHM_upper = peak_gHM_upper) |> 
+  select(species, final_gHM_median = wmean_gHM_median,
+         final_gHM_lower = wmean_gHM_lower, final_gHM_upper = wmean_gHM_upper) |>
   mutate(data_source = "Empirical (Occupancy)")
 
 final_synanthropy_db <- bind_rows(train_formatted, shadow_formatted)

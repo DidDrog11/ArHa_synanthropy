@@ -22,7 +22,7 @@ gbif_raw <- read_rds(here("data", "processed", "gbif_target_group_background.rds
                select(species), by = "species") |> 
   select(species, longitude, latitude)
 
-arha_db <- read_rds(here("data", "raw", "Project_ArHa_database_2026-01-09.rds"))
+arha_db <- read_rds(here("data", "raw", "Project_ArHa_database_2026-10-23.rds"))
 arha_host <- arha_db$host |> 
   drop_na(longitude, latitude) |> 
   mutate(trap_year = year(start_date)) |> 
